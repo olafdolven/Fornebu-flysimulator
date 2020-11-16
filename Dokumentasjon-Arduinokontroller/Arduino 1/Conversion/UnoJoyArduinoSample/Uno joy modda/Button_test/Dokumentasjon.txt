@@ -1,0 +1,95 @@
+Dette dokumenetet funker bare hvis
+A --> 09
+B --> 11
+C --> 10
+
+Arduino 1 ( den lengst til høre med flest GPIO)
+Digital pins:
+
+d2  -->  C3 Opp
+d3  -->  C4 Opp
+d4  -->  C5 Opp
+d5  -->  C6 Opp
+d6  -->  C7 Opp
+d7  -->  ikke koblet til
+d8  -->  B1 Opp
+d9  -->  B2 Ned
+d10 -->  B3 Opp
+d11 -->  B4 Ned
+d12 -->  ikke koblet til
+
+
+
+
+Dette dokumenetet funker bare hvis
+A --> 09
+B --> 11
+C --> 10
+
+Arduino 2 ( den lengst til Venstre med færrest GPIO)
+Digital pins:
+
+d3  -->  n/c
+d4  -->  n/c
+d5  -->  n/c
+d6  -->  n/c
+d7  -->  n/c
+d8  -->  A1 Opp
+d9  -->  A2 Opp
+d10 -->  A3 Opp
+d11 -->  C1 Opp
+d12 -->  C2 Opp
+
+
+
+
+
+
+A1 Opp  -->  d8  Arduino 2
+A2 Opp  -->  d9  Arduino 2
+A3 Opp  -->  d10 Arduino 2
+
+B1 Opp  -->  d8  Arduino 1
+B2 Ned  -->  d9  Arduino 1
+B3 Opp  -->  d10 Arduino 1
+B4 Ned  -->  d11  Arduino 1
+B5 Opp  ikke koblet til
+B6 Ned  ikke koblet til
+
+C1 Opp  -->  d11 Arduino 2
+C2 Opp  -->  d12 Arduino 2
+C3 Opp  -->  d2  Arduino 1 
+C4 Opp  -->  d3  Arduino 1
+C5 Opp  -->  d4  Arduino 1
+C6 Opp  -->  d5  Arduino 1
+C7 Opp  -->  d6  Arduino 1
+
+
+
+
+
+Analog inputs
+
+
+Arduino 1
+
+A0  -->  pot 4
+A1  -->  pot 3
+A2  -->  pot 2
+A3  -->  n/c 
+
+Arduino 2
+
+A0  -->  pot 7
+A1  -->  pot 6
+A2  -->  pot 5
+A3  -->  n/c
+
+pot 1  -->  n/c
+pot 2  -->  A2 Arduino 1
+pot 3  -->  A1 Arduino 1
+pot 4  -->  A0 Arduino 1
+pot 5  -->  A2 Arduino 2
+pot 6  -->  A1 Arduino 2
+pot 7  -->  A0 Arduino 2
+

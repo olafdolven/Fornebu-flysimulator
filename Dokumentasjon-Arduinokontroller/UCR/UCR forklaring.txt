@@ -1,0 +1,3 @@
+UCR er et program skrevet i ahk
+Dette programmet er veldig bra til å rebinde akser eller bryter.
+Dette kan også brukes til å styre forskjellige menyer osv.
