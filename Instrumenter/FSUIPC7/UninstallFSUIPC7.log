@@ -1,0 +1,77 @@
+Removing FSUIPC7...
+Removing documentation installed with FSUIPC7...
+Delete file: C:\Users\zipol\Documents\FSUIPC7\Profiles in Separate Files.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\LuaFileSystem.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\Lua Plugins for VRInsight Devices.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\Lua License.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 User Guide.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 Offsets Status.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 History.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 for Advanced Users.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\FSUIPC Lua Plug-Ins.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\FSUIPC Lua Library.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\Installing and Registering FSUIPC7.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\Example LUA plugins.zip
+Delete file: C:\Users\zipol\Documents\FSUIPC7\FSI2 Manual.pdf
+Delete file: C:\Users\zipol\Documents\FSUIPC7\Controls List for MSFS Build 999.txt
+Remove folder: C:\Users\zipol\Documents\FSUIPC7\
+Delete file: X:\programmer\FSUIPC7\MSFSwithFSUIPC7.bat
+Delete file: C:\Users\zipol\Desktop\MSFS with FSUIPC7.lnk
+Delete file: X:\programmer\FSUIPC7\FSUIPC7.ico
+Delete file: X:\programmer\FSUIPC7\InstallFSUIPC7.log
+Delete file: X:\programmer\FSUIPC7\FSUIPC7_prev.log
+Delete file: X:\programmer\FSUIPC7\Utils\FSInterrogate2std.exe
+Delete file: X:\programmer\FSUIPC7\Utils\HidScanner.exe
+Delete file: X:\programmer\FSUIPC7\Utils\FSUIPCWebSocketServer.exe
+Delete file: X:\programmer\FSUIPC7\SDK\FSUIPC feedback control.txt
+Delete file: X:\programmer\FSUIPC7\SDK\FSUIPC for Programmers.pdf
+Delete file: X:\programmer\FSUIPC7\SDK\FSUIPC_User_Lib_for_VC_2010.zip
+Delete file: X:\programmer\FSUIPC7\SDK\FSUIPCDotNetClient2.4.zip
+Delete file: X:\programmer\FSUIPC7\SDK\Library for FS Internal Users.zip
+Delete file: X:\programmer\FSUIPC7\SDK\Module_User_lib_for_VC_2010.zip
+Delete file: X:\programmer\FSUIPC7\SDK\ModuleUser64.zip
+Delete file: X:\programmer\FSUIPC7\SDK\New Weather Interface for FS2004.zip
+Delete file: X:\programmer\FSUIPC7\SDK\NewWeather.h
+Delete file: X:\programmer\FSUIPC7\SDK\ReadMe.txt
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_RealBasic_SDK.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_ASM.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_BCB5.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_C.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_.NET_(C#,VB.NET).txt
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_Delphi.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_JAVA.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_JAVA_64bit.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_MFC.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_Python.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC_SDK_VisualBasic.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPC64_SDK_C_version2.zip
+Delete file: X:\programmer\FSUIPC7\SDK\UIPCAWI.zip
+Delete file: X:\programmer\FSUIPC7\SDK\FSUIPC_Java_SDK_by_Mouseviator_v1_with_C_libs.7z
+Remove folder: X:\programmer\FSUIPC7\SDK\
+Delete file: X:\programmer\FSUIPC7\uninstallFSUIPC7.exe
+Deleting FSUIPC documentation installed in C:\Users\zipol\Documents\FSUIPC7
+Deleted file C:\Users\zipol\Documents\FSUIPC7\Profiles in Separate Files.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\LuaFileSystem.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\Plugins for VRInsight Devices.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\Lua License.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 User Guide.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 Offsets Status.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 History.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\FSUIPC7 for Advanced Users.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\FSUIPC Lua Plug-Ins.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\FSUIPC Lua Library.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\Installing and Registering FSUIPC7.pdf
+Deleted file C:\Users\zipol\Documents\FSUIPC7\Example LUA plugins.zip
+Deleted file C:\Users\zipol\Documents\FSUIPC7\FSI2 Manual.pdf
+Deleted folder C:\Users\zipol\Documents\FSUIPC7
+*** Error deleting file X:\programmer\FSUIPC7\FSUIPC7.exe
+Deleted file X:\programmer\FSUIPC7\MSFSwithFSUIPC7.bat
+Deleted file C:\Users\zipol\Desktop\MSFS with FSUIPC7.lnk
+Deleted file X:\programmer\FSUIPC7\FSUIPC7.ico
+Deleted file X:\programmer\FSUIPC7\InstallFSUIPC7.log
+*** Error deleting file X:\programmer\FSUIPC7\FSUIPC7.log
+Deleted file X:\programmer\FSUIPC7\FSUIPC7_prev.log
+Deleted file X:\programmer\FSUIPC7\Utils\FSInterrogate2std.exe
+Deleted file X:\programmer\FSUIPC7\Utils\HidScanner.exe
+Deleted file X:\programmer\FSUIPC7\Utils\FSUIPCWebSocketServer.exe
+Deleted file X:\programmer\FSUIPC7\Utils\FSUIPCWebSocketServer.exe.config

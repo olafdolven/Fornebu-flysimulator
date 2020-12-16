@@ -1,0 +1,105 @@
+{
+  "Data Link": {
+    "Host": "127.0.0.1",
+    "Port": 52020
+  },
+  "VSI": {
+    "Enabled": true,
+    "Position X": 90,
+    "Position Y": 230,
+    "Size": 180
+  },
+  "ALT": {
+    "Enabled": true,
+    "Position X": 360,
+    "Position Y": 45,
+    "Size": 280
+  },
+  "ASI Savage Cub": {
+    "Enabled": true,
+    "Position X": 730,
+    "Position Y": 10,
+    "Size": 280
+  },
+  "RPM Savage Cub": {
+    "Enabled": true,
+    "Position X": 1100,
+    "Position Y": 45,
+    "Size": 280
+  },
+  "Oil": {
+    "Enabled": true,
+    "Position X": 1440,
+    "Position Y": 95,
+    "Size": 180
+  },
+  "VAC": {
+    "Enabled": true,
+    "Position X": 1660,
+    "Position Y": 230,
+    "Size": 180
+  },
+  "COM Savage Cub": {
+    "Enabled": true,
+    "Position X": 410,
+    "Position Y": 365,
+    "Size": 180
+  },
+  "HI": {
+    "Enabled": true,
+    "Position X": 780,
+    "Position Y": 365,
+    "Size": 180
+  },
+  "XPDR Savage Cub": {
+    "Enabled": true,
+    "Position X": 1150,
+    "Position Y": 365,
+    "Size": 180
+  },
+  "Fuel": {
+    "Enabled": true,
+    "Position X": 1440,
+    "Position Y": 365,
+    "Size": 180
+  },
+  "ASI": {
+    "Enabled": false
+  },
+  "RPM": {
+    "Enabled": false
+  },
+  "ADI": {
+    "Enabled": false
+  },
+  "VOR1": {
+    "Enabled": false
+  },
+  "TC": {
+    "Enabled": false
+  },
+  "VOR2": {
+    "Enabled": false
+  },
+  "Trim Flaps": {
+    "Enabled": false
+  },
+  "ADF": {
+    "Enabled": false
+  },
+  "Annunciator": {
+    "Enabled": false
+  },
+  "Nav": {
+    "Enabled": false
+  },
+  "ADI Learjet": {
+    "Enabled": false
+  },
+  "Digital Clock": {
+    "Enabled": false
+  },
+  "EGT": {
+    "Enabled": false
+  }
+}

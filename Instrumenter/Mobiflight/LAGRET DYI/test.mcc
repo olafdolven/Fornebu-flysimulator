@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MobiflightConnector>
+  <outputs>
+    <config guid="6baa2a39-c14f-44a3-ac36-f3d3effef283">
+      <active>true</active>
+      <description />
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0x028C" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" />
+        <comparison active="False" value="" operand="" ifValue="" elseValue="" />
+        <display type="Pin" serial="MobiFlight Mega/ SN-ff8-c01" trigger="normal" pin="Output" pinBrightness="255" />
+        <preconditions />
+        <transformation active="True" expression="$" substrStart="0" substrEnd="7" />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="92dc689c-00db-4991-ac51-3954c745b272">
+      <active>true</active>
+      <description />
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0x0B7C" offsetType="Integer" size="4" mask="0xFFFFFFFF" bcdMode="False" />
+        <comparison active="False" value="" operand="" ifValue="" elseValue="" />
+        <display type="Servo" serial="MobiFlight Mega/ SN-ff8-c01" trigger="normal" servoAddress="Servo" servoMin="0" servoMax="255" servoMaxRotationPercent="100" />
+        <interpolation active="True">
+          <value x="0" y="255" />
+          <value x="100" y="0" />
+        </interpolation>
+        <preconditions />
+        <transformation active="True" expression="$*100/(128*65536)" substrStart="0" substrEnd="7" />
+        <configrefs>
+          <configref active="False" ref="6baa2a39-c14f-44a3-ac36-f3d3effef283" placeholder="#" />
+          <configref active="False" ref="6baa2a39-c14f-44a3-ac36-f3d3effef283" placeholder="#" />
+        </configrefs>
+      </settings>
+    </config>
+    <config guid="e003a744-c091-4c46-bdd0-d4a0525fb480">
+      <active>true</active>
+      <description />
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="FSUIPC" offset="0x0B94" offsetType="Integer" size="4" mask="0xFFFFFFFF" bcdMode="False" />
+        <comparison active="False" value="" operand="" ifValue="" elseValue="" />
+        <display type="Servo" serial="MobiFlight Mega/ SN-ff8-c01" trigger="normal" servoAddress="Servo 1" servoMin="0" servoMax="255" servoMaxRotationPercent="100" />
+        <interpolation active="True">
+          <value x="0" y="255" />
+          <value x="100" y="0" />
+        </interpolation>
+        <preconditions />
+        <transformation active="True" expression="$*100/(128*65536)" substrStart="0" substrEnd="7" />
+        <configrefs>
+          <configref active="False" ref="92dc689c-00db-4991-ac51-3954c745b272" placeholder="§" />
+          <configref active="False" ref="6baa2a39-c14f-44a3-ac36-f3d3effef283" placeholder="#" />
+        </configrefs>
+      </settings>
+    </config>
+  </outputs>
+  <inputs>
+    <config guid="3e8993bf-c9c6-4f41-8d57-60f0f25c1a84">
+      <active>true</active>
+      <description>rrllrrllLLLLLLllllllllllllllll</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Button 31" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="1" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="1" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+      </settings>
+    </config>
+    <config guid="f349b550-e461-4572-90fe-031d7ab8519b">
+      <active>true</active>
+      <description>llllllllllllllll</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Encoder" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft />
+          <onLeftFast type="KeyInputAction" key="Shift+L" />
+          <onRight type="KeyInputAction" key="R" />
+          <onRightFast type="KeyInputAction" key="Shift+R" />
+        </encoder>
+        <preconditions />
+      </settings>
+    </config>
+  </inputs>
+</MobiflightConnector>

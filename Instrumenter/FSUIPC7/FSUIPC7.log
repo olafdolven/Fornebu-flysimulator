@@ -1,0 +1,83 @@
+********* FSUIPC7, Version 7.0.1 (11th November 2020) by John Dowson *********
+No registry entries found for MSFS - setting paths from APPDATA env variable
+Checking for FS path in 'C:\Users\zipol\AppData\Roaming\Microsoft Flight Simulator\UserCfg.opt'
+FS path found = X:\programmer\MSFS\
+Windows 10 Pro 64 Bit reported as Build 19041, Release ID: 2004 (OS 10.0)
+Reading options from "X:\programmer\FSUIPC7\FSUIPC7.ini"
+Checking the Registrations now ...
+User Name=""
+User Addr=""
+FSUIPC7 not user registered
+WIDEFS7 not user registered, or expired
+      281 System time = 08/12/2020 10:29:37
+      281 FLT path = "C:\Users\zipol\AppData\Roaming\Microsoft Flight Simulator\"
+      297 -------------------------------------------------------------------
+      453 Registered HotKey 'InvokeFSUIPCOptionsKey' (key=0x46, modifier=0x1)
+      500 FS path = "X:\programmer\MSFS\"
+      515 LogOptions=00000000 00000001
+     3453 Simulator detected
+     8562 SimConnect_Open succeeded
+     8562 Running in "KittyHawk", Version: 11.0.282174.999 (SimConnect: 11.0.62651.3)
+     8562 MSFS version = 11.0.282174.999
+     8562 Initialising SimConnect data requests now
+    14203 User Aircraft ID not supplied -- trying default
+    84109 X:\programmer\MSFS\Official\Steam\asobo-aircraft-savage-cub\SimObjects\Airplanes\Asobo_Savage_Cub\aircraft.CFG
+    84468 flights\other\MainMenu.FLT
+    86953 Aircraft loaded: running normally now ...
+    87890 System time = 08/12/2020 10:31:05, Simulator time = 08:29:00 (09:29Z)
+    94922 -------------------- Starting everything now ----------------------
+   142609 X:\programmer\MSFS\Official\Steam\asobo-aircraft-c152\SimObjects\Airplanes\Asobo_C152\aircraft.CFG
+   142609 Sim stopped: average frame rate for last 56 secs = 91.4 fps
+   142609    Max AI traffic was 0 aircraft
+   142609 -------------------------------------------------------------------
+   151656 C:\Users\zipol\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Custom\CustomFlight\CustomFlight.FLT
+   167109 #### ERROR: No SimConnect data seen for more than set stall time - will attempt to reconnect...
+   167109 **** SimConnect Data Stalled! Re-connecting now ... ****
+   167484 SimConnect_Open succeeded
+   167500 Running in "KittyHawk", Version: 11.0.282174.999 (SimConnect: 11.0.62651.3)
+   167500 MSFS version = 11.0.282174.999
+   167500 Initialising SimConnect data requests now
+   167500 User Aircraft ID 1 supplied, now being used
+   167515 SimObjects\Airplanes\Asobo_C152\aircraft.CFG
+   167562 User Aircraft ID 1 supplied, now being used
+   168312 System time = 08/12/2020 10:32:25, Simulator time = 10:01:00 (09:01Z)
+   594640 **** Restarting traffic scanning due to non-reception ****
+   695359 Sim stopped: average frame rate for last 528 secs = 39.9 fps
+   695359    Max AI traffic was 2 aircraft
+   695359 -------------------------------------------------------------------
+   695500 X:\programmer\MSFS\Official\Steam\asobo-aircraft-c152\SimObjects\Airplanes\Asobo_C152\aircraft.CFG
+   837812 Sim stopped: average frame rate for last 137 secs = 39.4 fps
+   837812    Max AI traffic was 1 aircraft
+   837812 -------------------------------------------------------------------
+   844172 flights\other\MainMenu.FLT
+   869000 MSFS no longer running - exiting
+   869000 === Hot key unregistered
+   869000 === Stop called ...
+   869015 === Closing external processes we started ...
+   870031 === About to kill any Lua plug-ins still running ...
+   871187 === About to kill my timers ...
+   871187 === Restoring window procs ...
+   871187 === Unloading libraries ...
+   871187 === stopping other threads ...
+   871187 === ... Button scanning ...
+   871297 === ... Axis scanning ...
+   871406 === Releasing joystick devices ...
+   871406 === Freeing macro memory
+   871406 === Removing any offset overrides
+   871406 === Clearing any displays left
+   871406 === Calling SimConnect_Close ...
+   871625 === SimConnect_Close done!
+   871625 === AI slots deleted!
+   871625 === Freeing button memory ...
+   871625 === Closing my Windows ...
+   871625 === Freeing FS libraries ...
+   872640 === Closing devices ...
+   872640 === Closing the Log ... Bye Bye! ...
+   872640 System time = 08/12/2020 10:44:10
+   872640 *** FSUIPC log file being closed
+Minimum frame rate was 7.0 fps, Maximum was 179.7 fps
+Average frame rate for running time of 830 secs = 51.0 fps
+Maximum AI traffic for session was 2 aircraft
+Traffic deletions 0 aircraft
+Memory managed: 2 Allocs, 1 Freed
+********* FSUIPC Log file closed ***********

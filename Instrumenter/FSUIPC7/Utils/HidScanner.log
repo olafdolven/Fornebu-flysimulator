@@ -1,0 +1,559 @@
+********* HidScanner, Version 2.00 by Pete Dowson *********
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_02&col02#8&2359e3bc&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Usage Page: FF00
+  Input Report Byte Length: 20
+  Output Report Byte Length: 20
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 1
+  Number of Output Button Caps: 1
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 1
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_24ae&pid_2002&mi_01&col01#8&3891c460&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=24AE, Product=2002 (Version 16.1)
+  Manufacturer= RAPOO
+  Product= RAPOO 5G Wireless Device
+  Serial Number= RAPOO 5G Wireless Device
+  Device is a mouse
+  Usage Page: 1
+  Input Report Byte Length: 8
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 2
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 4
+  Number of InputData Indices: 9
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  Buttons range 1 -> 5 at indices 0 -> 4
+  Value Y at index 5, range -32767 -> 32767, using 16 bits
+  Value X at index 6, range -32767 -> 32767, using 16 bits
+  Value Wh at index 7, range -127 -> 127, using 8 bits
+  Value Wh at index 8, range -127 -> 127, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#saitekmouse#2&fb7b623&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=06A3, Product=5021 (Version 0.1)
+  Manufacturer= 
+  Product= 
+  Serial Number= 
+  Device is a mouse
+  Usage Page: 1
+  Input Report Byte Length: 5
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 2
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 3
+  Number of InputData Indices: 8
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  Buttons range 1 -> 5 at indices 0 -> 4
+  Value Wh at index 5, range -127 -> 127, using 8 bits
+  Value Y at index 6, range -127 -> 127, using 8 bits
+  Value X at index 7, range -127 -> 127, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_02&col03#8&2359e3bc&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Usage Page: FF00
+  Input Report Byte Length: 32
+  Output Report Byte Length: 32
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 2
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 2
+  Number of Output Button Caps: 2
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 2
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_24ae&pid_2002&mi_01&col02#8&3891c460&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=24AE, Product=2002 (Version 16.1)
+  Manufacturer= RAPOO
+  Product= RAPOO 5G Wireless Device
+  Serial Number= RAPOO 5G Wireless Device
+  Usage Page: 1
+  Input Report Byte Length: 2
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 3
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#saitekhotkeys#2&2addafed&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=06A3, Product=5081 (Version 0.1)
+  Manufacturer= 
+  Product= 
+  Serial Number= 
+  Usage Page: C
+  Input Report Byte Length: 3
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 669
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_24ae&pid_2002&mi_01&col03#8&3891c460&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=24AE, Product=2002 (Version 16.1)
+  Manufacturer= RAPOO
+  Product= RAPOO 5G Wireless Device
+  Serial Number= RAPOO 5G Wireless Device
+  Usage Page: C
+  Input Report Byte Length: 3
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 897
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_24ae&pid_2002&mi_01&col04#8&3891c460&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=24AE, Product=2002 (Version 16.1)
+  Manufacturer= RAPOO
+  Product= RAPOO 5G Wireless Device
+  Serial Number= RAPOO 5G Wireless Device
+  Usage Page: FFBC
+  Input Report Byte Length: 2
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 256
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_00#8&245497c8&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Device is a keyboard
+  Usage Page: 1
+  Input Report Byte Length: 9
+  Output Report Byte Length: 2
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 2
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 264
+  Number of Output Button Caps: 1
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 5
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_24ae&pid_2002&mi_01&col05#8&3891c460&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=24AE, Product=2002 (Version 16.1)
+  Manufacturer= RAPOO
+  Product= RAPOO 5G Wireless Device
+  Serial Number= RAPOO 5G Wireless Device
+  Usage Page: FF00
+  Input Report Byte Length: 32
+  Output Report Byte Length: 32
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 0
+  Number of InputValue Caps: 1
+  Number of InputData Indices: 1
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 1
+  Number of Output Data Indices: 1
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  Value 0x01 at index 0, range 0 -> 255, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_24ae&pid_2002&mi_00#8&2c6169d0&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd"
+  Vendor=24AE, Product=2002 (Version 16.1)
+  Manufacturer= RAPOO
+  Product= RAPOO 5G Wireless Device
+  Serial Number= RAPOO 5G Wireless Device
+  Device is a keyboard
+  Usage Page: 1
+  Input Report Byte Length: 9
+  Output Report Byte Length: 2
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 2
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 264
+  Number of Output Button Caps: 1
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 5
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#hidclass#1&2d595ca7&1&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=1234, Product=BEAD (Version 2.25)
+  Manufacturer= Shaul Eizikovich
+  Product= vJoy - Virtual Joystick
+  Serial Number= 2.1.9
+  Usage Page: 1
+  Input Report Byte Length: 65
+  Output Report Byte Length: 18
+  Feature Report Byte Length: 5
+  Number of Link Collection Nodes: 27
+  Number of Input Button Caps: 7
+  Number of InputValue Caps: 9
+  Number of InputData Indices: 47
+  Number of Output Button Caps: 24
+  Number of Output Value Caps: 47
+  Number of Output Data Indices: 71
+  Number of Feature Button Caps: 18
+  Number of Feature Value Caps: 4
+  Number of Feature Data Indices: 22
+  Buttons range 1 -> 32 at indices 8 -> 39
+  Value X at index 0, range 0 -> 32767, using 32 bits
+  Value Y at index 1, range 0 -> 32767, using 32 bits
+  Value Z at index 2, range 0 -> 32767, using 32 bits
+  Value U/RX at index 3, range 0 -> 32767, using 32 bits
+  Value V/RY at index 4, range 0 -> 32767, using 32 bits
+  Value R/RZ at index 5, range 0 -> 32767, using 32 bits
+  Value Sldr at index 6, range 0 -> 32767, using 32 bits
+  Value Dial at index 7, range 0 -> 32767, using 32 bits
+  Value 0x22 at index 46, range 1 -> 40, using 7 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_01&col03#8&7d5a06&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Usage Page: 1
+  Input Report Byte Length: 2
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 3
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 3
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_2341&pid_8036&mi_02#7&32f7ac7&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=2341, Product=8036 (Version 1.0)
+  Manufacturer= Arduino LLC
+  Product= Arduino Leonardo
+  Serial Number= HIDFH
+  Usage Page: 1
+  Input Report Byte Length: 14
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 3
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 10
+  Number of InputData Indices: 42
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  Buttons range 1 -> 32 at indices 0 -> 31
+  Value Rdr at index 32, range 0 -> 255, using 8 bits
+  Value Thr at index 33, range 0 -> 255, using 8 bits
+  Value POV at index 34, range 0 -> 7, using 4 bits
+  Value POV at index 35, range 0 -> 7, using 4 bits
+  Value R/RZ at index 36, range 0 -> 255, using 8 bits
+  Value V/RY at index 37, range 0 -> 255, using 8 bits
+  Value U/RX at index 38, range 0 -> 255, using 8 bits
+  Value Z at index 39, range 0 -> 255, using 8 bits
+  Value Y at index 40, range 0 -> 255, using 8 bits
+  Value X at index 41, range 0 -> 255, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_01&col01#8&7d5a06&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Device is a mouse
+  Usage Page: 1
+  Input Report Byte Length: 8
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 2
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 4
+  Number of InputData Indices: 20
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  Buttons range 1 -> 16 at indices 0 -> 15
+  Value Y at index 16, range -2047 -> 2047, using 12 bits
+  Value X at index 17, range -2047 -> 2047, using 12 bits
+  Value Wh at index 18, range -127 -> 127, using 8 bits
+  Value Wh at index 19, range -127 -> 127, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#asusvtouchdev&col01#2&151bffca&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=0B05, Product=0101 (Version 3.233)
+  Manufacturer= ASUS
+  Product= VirtualHidTest
+  Serial Number= 0
+  Device is a mouse
+  Usage Page: 1
+  Input Report Byte Length: 5
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 2
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 3
+  Number of InputData Indices: 5
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  Buttons range 1 -> 2 at indices 0 -> 1
+  Value Wh at index 2, range -127 -> 127, using 8 bits
+  Value Y at index 3, range -127 -> 127, using 8 bits
+  Value X at index 4, range -127 -> 127, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_01&col04#8&7d5a06&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Usage Page: FFBC
+  Input Report Byte Length: 2
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 255
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#asusvtouchdev&col02#2&151bffca&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=0B05, Product=0101 (Version 3.233)
+  Manufacturer= ASUS
+  Product= VirtualHidTest
+  Serial Number= 0
+  Usage Page: FF00
+  Input Report Byte Length: 10
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 631
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 0
+  Number of InputValue Caps: 1
+  Number of InputData Indices: 1
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 3
+  Number of Feature Data Indices: 3
+  Value 0x01 at index 0, range -127 -> 127, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#asusvtouchdev&col03#2&151bffca&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=0B05, Product=0101 (Version 3.233)
+  Manufacturer= ASUS
+  Product= VirtualHidTest
+  Serial Number= 0
+  Usage Page: D
+  Input Report Byte Length: 10
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 257
+  Number of Link Collection Nodes: 2
+  Number of Input Button Caps: 3
+  Number of InputValue Caps: 5
+  Number of InputData Indices: 8
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 1
+  Number of Feature Value Caps: 3
+  Number of Feature Data Indices: 4
+  Buttons 1 at index 7
+  Value 0x51 at index 2, range 0 -> 2, using 3 bits
+  Value X at index 3, range 0 -> 7266, using 16 bits
+  Value Y at index 4, range 0 -> 4950, using 16 bits
+  Value 0x56 at index 5, range 0 -> 65535, using 16 bits
+  Value 0x54 at index 6, range 0 -> 127, using 8 bits
+  **************************************************************************
+  
+  Device at "\\?\hid#saitekkeyboard#2&343dacb3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd"
+  Vendor=06A3, Product=5041 (Version 0.1)
+  Manufacturer= 
+  Product= 
+  Serial Number= 
+  Device is a keyboard
+  Usage Page: 1
+  Input Report Byte Length: 9
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 2
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 110
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#asusvtouchdev&col04#2&151bffca&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=0B05, Product=0101 (Version 3.233)
+  Manufacturer= ASUS
+  Product= VirtualHidTest
+  Serial Number= 0
+  Usage Page: D
+  Input Report Byte Length: 0
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 3
+  Number of Link Collection Nodes: 3
+  Number of Input Button Caps: 0
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 0
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 2
+  Number of Feature Value Caps: 1
+  Number of Feature Data Indices: 3
+  **************************************************************************
+  
+  Device at "\\?\hid#asusvtouchdev&col05#2&151bffca&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=0B05, Product=0101 (Version 3.233)
+  Manufacturer= ASUS
+  Product= VirtualHidTest
+  Serial Number= 0
+  Usage Page: FF00
+  Input Report Byte Length: 0
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 65
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 0
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 0
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 1
+  Number of Feature Data Indices: 1
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_01&col02#8&7d5a06&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Usage Page: C
+  Input Report Byte Length: 5
+  Output Report Byte Length: 0
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 767
+  Number of Output Button Caps: 0
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 0
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
+  
+  Device at "\\?\hid#vid_046d&pid_c52b&mi_02&col01#8&2359e3bc&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+  Vendor=046D, Product=C52B (Version 18.3)
+  Manufacturer= Logitech
+  Product= USB Receiver
+  Serial Number= USB Receiver
+  Usage Page: FF00
+  Input Report Byte Length: 7
+  Output Report Byte Length: 7
+  Feature Report Byte Length: 0
+  Number of Link Collection Nodes: 1
+  Number of Input Button Caps: 1
+  Number of InputValue Caps: 0
+  Number of InputData Indices: 1
+  Number of Output Button Caps: 1
+  Number of Output Value Caps: 0
+  Number of Output Data Indices: 1
+  Number of Feature Button Caps: 0
+  Number of Feature Value Caps: 0
+  Number of Feature Data Indices: 0
+  **************************************************************************
