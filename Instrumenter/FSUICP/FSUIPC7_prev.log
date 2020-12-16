@@ -1,0 +1,43 @@
+********* FSUIPC7, Version 7.0.1 (11th November 2020) by John Dowson *********
+No registry entries found for MSFS - setting paths from APPDATA env variable
+Checking for FS path in 'C:\Users\zipol\AppData\Roaming\Microsoft Flight Simulator\UserCfg.opt'
+FS path found = X:\programmer\MSFS\
+WebSocket server found: X:\programmer\FSUICP\\Utils\FSUIPCWebSocketServer.exe
+Windows 10 Pro 64 Bit reported as Build 19041, Release ID: 2004 (OS 10.0)
+Reading options from "X:\programmer\FSUICP\FSUIPC7.ini"
+Checking the Registrations now ...
+User Name="Olaf Dolven"
+User Addr="olaf.h.dolven@gmail.com"
+FSUIPC7 Key is provided
+WIDEFS7 not user registered, or expired
+      203 System time = 08/12/2020 10:23:30
+      203 FLT path = "C:\Users\zipol\AppData\Roaming\Microsoft Flight Simulator\"
+      422 -------------------------------------------------------------------
+      453 Registered HotKey 'InvokeFSUIPCOptionsKey' (key=0x46, modifier=0x1)
+      468 FS path = "X:\programmer\MSFS\"
+      468 ---------------------- Joystick Device Scan -----------------------
+      468 Product= vJoy - Virtual Joystick
+      468    Manufacturer= Shaul Eizikovich
+      468    Serial Number= 2.1.9
+      468    Vendor=1234, Product=BEAD (Version 2.25)
+      562    GUIDs returned for product: VID_1234&PID_BEAD:
+      562       GUID= {46E45AC0-F34E-11E9-8002-444553540000}
+      562       Details: Btns=32, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R32767,U32767,V32767,X32767,Y32767,Z32767
+      562 Product= RadioMas TX16S Joystick
+      562    Manufacturer= FrSky
+      562    Serial Number= 00000000001B
+      562    Vendor=0483, Product=5710 (Version 2.0)
+      562    GUIDs returned for product: VID_0483&PID_5710:
+      562       GUID= {1AAE6BB0-0826-11EB-8001-444553540000}
+      562       Details: Btns=24, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R2047,U2047,V2047,X2047,Y2047,Z2047
+      562 -------------------------------------------------------------------
+      593 Device acquired for use:
+      593    Joystick ID = 0 (Registry okay)
+      593    0=vJoy Device
+      593    0.GUID={46E45AC0-F34E-11E9-8002-444553540000}
+      593 Device acquired for use:
+      593    Joystick ID = 1 (Registry okay)
+      593    1=RadioMas TX16S Joystick
+      593    1.GUID={1AAE6BB0-0826-11EB-8001-444553540000}
+      593 -------------------------------------------------------------------
+      609 LogOptions=00000000 00000001
