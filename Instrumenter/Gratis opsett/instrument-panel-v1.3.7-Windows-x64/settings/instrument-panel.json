@@ -1,132 +1,150 @@
 {
   "Data Link": {
-    "Host": "127.0.0.1",
+    "Host": "192.168.1.44",
     "Port": 52020
   },
   "ASI": {
     "Enabled": true,
-    "Position X": 566,
-    "Position Y": 18,
-    "Size": 277
+    "Position X": 0,
+    "Position Y": 880,
+    "Size": 200
   },
   "ADI": {
     "Enabled": true,
-    "Position X": 882,
-    "Position Y": 7,
-    "Size": 290
+    "Position X": 200,
+    "Position Y": 880,
+    "Size": 200
   },
   "ALT": {
     "Enabled": true,
-    "Position X": 1223,
-    "Position Y": 14,
-    "Size": 272
+    "Position X": 400,
+    "Position Y": 880,
+    "Size": 200
   },
   "VOR1": {
     "Enabled": true,
-    "Position X": 1548,
-    "Position Y": 12,
-    "Size": 274
+    "Position X": 600,
+    "Position Y": 880,
+    "Size": 200
   },
   "TC": {
     "Enabled": true,
-    "Position X": 562,
-    "Position Y": 342,
-    "Size": 280
+    "Position X": 800,
+    "Position Y": 880,
+    "Size": 200
   },
   "HI": {
     "Enabled": true,
-    "Position X": 892,
-    "Position Y": 345,
-    "Size": 274
+    "Position X": 1000,
+    "Position Y": 880,
+    "Size": 200
   },
   "VSI": {
     "Enabled": true,
-    "Position X": 1219,
-    "Position Y": 342,
-    "Size": 284
+    "Position X": 1200,
+    "Position Y": 880,
+    "Size": 200
   },
   "VOR2": {
     "Enabled": true,
-    "Position X": 1553,
-    "Position Y": 348,
-    "Size": 276
+    "Position X": 1400,
+    "Position Y": 880,
+    "Size": 200
   },
   "Trim Flaps": {
     "Enabled": true,
-    "Position X": 888,
-    "Position Y": 676,
-    "Size": 280
+    "Position X": 1600,
+    "Position Y": 880,
+    "Size": 200
   },
   "RPM": {
     "Enabled": true,
-    "Position X": 1222,
-    "Position Y": 669,
-    "Size": 284
+    "Position X": 0,
+    "Position Y": 680,
+    "Size": 200
   },
   "ADF": {
     "Enabled": true,
-    "Position X": 1556,
-    "Position Y": 672,
-    "Size": 266
+    "Position X": 200,
+    "Position Y": 680,
+    "Size": 200
   },
   "Annunciator": {
     "Enabled": true,
-    "Position X": 135,
-    "Position Y": 20,
-    "Size": 300
+    "Position X": 400,
+    "Position Y": 680,
+    "Size": 200
   },
   "Digital Clock": {
     "Enabled": true,
-    "Position X": 320,
-    "Position Y": 124,
+    "Position X": 600,
+    "Position Y": 680,
     "Size": 200
   },
   "Fuel": {
     "Enabled": true,
-    "Position X": 83,
-    "Position Y": 360,
+    "Position X": 800,
+    "Position Y": 680,
     "Size": 200
   },
   "EGT": {
     "Enabled": true,
-    "Position X": 323,
-    "Position Y": 367,
-    "Size": 193
+    "Position X": 1000,
+    "Position Y": 680,
+    "Size": 200
   },
   "Oil": {
     "Enabled": true,
-    "Position X": 95,
-    "Position Y": 618,
-    "Size": 182
+    "Position X": 1200,
+    "Position Y": 680,
+    "Size": 200
   },
   "VAC": {
     "Enabled": true,
-    "Position X": 334,
-    "Position Y": 618,
-    "Size": 182
+    "Position X": 1400,
+    "Position Y": 680,
+    "Size": 200
   },
   "Nav": {
     "Enabled": true,
-    "Position X": 74,
-    "Position Y": 900,
-    "Size": 589
+    "Position X": 1600,
+    "Position Y": 680,
+    "Size": 200
   },
   "ADI Learjet": {
-    "Enabled": false
+    "Enabled": true,
+    "Position X": 0,
+    "Position Y": 480,
+    "Size": 200
   },
   "Rad Com": {
-    "Enabled": false
+    "Enabled": true,
+    "Position X": 200,
+    "Position Y": 480,
+    "Size": 200
   },
   "ASI Savage Cub": {
-    "Enabled": false
+    "Enabled": true,
+    "Position X": 400,
+    "Position Y": 480,
+    "Size": 200
   },
   "RPM Savage Cub": {
-    "Enabled": false
+    "Enabled": true,
+    "Position X": 600,
+    "Position Y": 480,
+    "Size": 200
   },
   "COM Savage Cub": {
-    "Enabled": false
+    "Enabled": true,
+    "Position X": 800,
+    "Position Y": 480,
+    "Size": 200
   },
   "XPDR Savage Cub": {
-    "Enabled": false
+    "Enabled": true,
+    "Position X": 1000,
+    "Position Y": 480,
+    "Size": 200
   }
 }
