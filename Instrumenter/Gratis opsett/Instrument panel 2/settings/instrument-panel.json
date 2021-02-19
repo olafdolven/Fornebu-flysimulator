@@ -4,52 +4,52 @@
     "Port": 52020
   },
   "ASI": {
-    "Enabled": true,
+    "Enabled": false,
     "Position X": 35,
     "Position Y": 0,
     "Size": 385
   },
   "ADI": {
     "Enabled": true,
-    "Position X": 490,
+    "Position X": 945,
     "Position Y": 0,
     "Size": 385
   },
   "ALT": {
-    "Enabled": true,
+    "Enabled": false,
     "Position X": 945,
     "Position Y": 0,
     "Size": 385
   },
   "VOR1": {
-    "Enabled": false,
-    "Position X": 600,
-    "Position Y": 880,
-    "Size": 200
+    "Enabled": true,
+    "Position X": 35,
+    "Position Y": 0,
+    "Size": 385
   },
   "TC": {
-    "Enabled": true,
+    "Enabled": false,
     "Position X": 35,
     "Position Y": 385,
     "Size": 385
   },
   "HI": {
-    "Enabled": true,
+    "Enabled": false,
     "Position X": 490,
     "Position Y": 385,
     "Size": 385
   },
   "VSI": {
-    "Enabled": true,
+    "Enabled": false,
     "Position X": 945,
     "Position Y": 385,
     "Size": 385
   },
   "VOR2": {
-    "Enabled": false,
-    "Position X": 1400,
-    "Position Y": 880,
-    "Size": 200
+    "Enabled": true,
+    "Position X": 35,
+    "Position Y": 385,
+    "Size": 385
   },
   "Trim Flaps": {
     "Enabled": false,
@@ -58,10 +58,10 @@
     "Size": 200
   },
   "RPM": {
-    "Enabled": false,
-    "Position X": 0,
-    "Position Y": 680,
-    "Size": 200
+    "Enabled": true,
+    "Position X": 490,
+    "Position Y": 0,
+    "Size": 385
   },
   "ADF": {
     "Enabled": false,
@@ -88,16 +88,16 @@
     "Size": 200
   },
   "EGT": {
-    "Enabled": false,
-    "Position X": 1000,
-    "Position Y": 680,
-    "Size": 200
+    "Enabled": true,
+    "Position X": 490,
+    "Position Y": 385,
+    "Size": 385
   },
   "Oil": {
-    "Enabled": false,
-    "Position X": 1200,
-    "Position Y": 680,
-    "Size": 200
+    "Enabled": true,
+    "Position X": 945,
+    "Position Y": 385,
+    "Size": 385
   },
   "VAC": {
     "Enabled": false,
