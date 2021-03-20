@@ -11,17 +11,17 @@
 
 //       Kalibrering
 //  <------------------------------------------------------------------------------------------->
-double minA10 = 0 - 10;         //A0    -   UnoJoy
-double maxA10 = 1023 + 10;      //A0    -   UnoJoy
+double minA10 = 270 - 10;         //A0    -   UnoJoy
+double maxA10 = 820 + 10;      //A0    -   UnoJoy
 
-double minA11 = 0 - 10;         //A1    -   UnoJoy    
-double maxA11 = 1023 + 10;      //A1    -   UnoJoy
+double minA11 = 165 - 10;         //A1    -   UnoJoy    
+double maxA11 = 835 + 10;      //A1    -   UnoJoy
 
-double minA12 = 0 - 10;         //A2    -   UnoJoy
-double maxA12 = 1023 + 10;      //A2    -   UnoJoy
+double minA12 = 554 - 10;         //A2    -   UnoJoy
+double maxA12 = 880 + 10;      //A2    -   UnoJoy
 
-double minA13 = 0 - 10;         //A3    -   UnoJoy
-double maxA13 = 1023 + 10;      //A3    -   UnoJoy
+double minA13 = 198 - 10;         //A3    -   UnoJoy
+double maxA13 = 990 + 10;      //A3    -   UnoJoy
 //  <------------------------------------------------------------------------------------------->
 
 
@@ -105,10 +105,20 @@ dataForController_t getControllerData(void){
   //Digitale outputs
   controllerData.squareOn = digitalRead(2);           //Windows 1
   controllerData.crossOn = digitalRead(3);            //Windows 2
-  controllerData.circleOn = digitalRead(4);           //Windows 3
-  controllerData.triangleOn = digitalRead(5);         //Windows 4
-  controllerData.l1On = digitalRead(6);               //Windows 5
-  controllerData.r1On = digitalRead(7);                 //Windows 6
+  
+  if (digitalRead(4) == HIGH && digitalRead(5) == HIGH){
+    controllerData.l1On = HIGH; //Windows 5
+  }
+  else if (digitalRead(4) == HIGH){
+    controllerData.circleOn = HIGH; // Windows 3
+  }
+  else if (digitalRead(5) == HIGH){
+    controllerData.triangleOn = HIGH; //Windows 4
+  }
+  else if (digitalRead(4) == LOW && digitalRead(5) == LOW){
+    controllerData.r1On = HIGH;  // Windows 6
+  }
+  
   controllerData.l2On = digitalRead(8);                 //Windows 7
   controllerData.r2On = digitalRead(9);                 //Windows 8
   controllerData.selectOn = digitalRead(10);            //Windows 9

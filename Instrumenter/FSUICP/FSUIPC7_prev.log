@@ -10,85 +10,85 @@ User Name="Olaf Dolven"
 User Addr="olaf.h.dolven@gmail.com"
 FSUIPC7 Key is provided
 WIDEFS7 not user registered, or expired
-      141 System time = 17/12/2020 17:56:29
-      141 FLT path = "C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\"
-      141 -------------------------------------------------------------------
-      172 Registered HotKey 'InvokeFSUIPCOptionsKey' (key=0x46, modifier=0x1)
-      188 FS path = "C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\Packages\"
-      188 ---------------------- Joystick Device Scan -----------------------
-      188 Product= RadioMas TX16S Joystick
-      188    Manufacturer= FrSky
-      188    Serial Number= 00000000001B
-      188    Vendor=0483, Product=5710 (Version 2.0)
-      203    GUIDs returned for product: VID_0483&PID_5710:
-      203       GUID= {17A96C80-3FB2-11EB-8001-444553540000}
-      203       Details: Btns=24, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R2047,U2047,V2047,X2047,Y2047,Z2047
-      203 -------------------------------------------------------------------
-      203 Device acquired for use:
-      203    Joystick ID = 1 (Registry okay)
-      203    1=RadioMas TX16S Joystick
-      203    1.GUID={17A96C80-3FB2-11EB-8001-444553540000}
-      203 -------------------------------------------------------------------
-      250 LogOptions=00000000 00000001
-     3172 Simulator detected
-    91953 SimConnect_Open succeeded
-    91953 Running in "KittyHawk", Version: 11.0.282174.999 (SimConnect: 11.0.62651.3)
-    91953 MSFS version = 11.0.282174.999
-    91953 Generating controls file list: 'C:\Users\Gaming PC\Documents\FSUIPC7\Controls List for MSFS Build 999.txt'
-    91953 Initialising SimConnect data requests now
-    98391 User Aircraft ID not supplied -- trying default
-   141750 C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\Packages\Official\Steam\asobo-aircraft-c172sp-classic\SimObjects\Airplanes\Asobo_C172sp_classic\aircraft.CFG
-   141969 flights\other\MainMenu.FLT
-   143750 Aircraft loaded: running normally now ...
-   143797 System time = 17/12/2020 17:58:52, Simulator time = 15:58:00 (16:58Z)
-   143797 Aircraft="Cessna Skyhawk Asobo"
-   150813 -------------------- Starting everything now ----------------------
-   197485 Sim stopped: average frame rate for last 54 secs = 58.1 fps
-   197485    Max AI traffic was 1 aircraft
-   197485 -------------------------------------------------------------------
-   202250 C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Custom\CustomFlight\CustomFlight.FLT
-   562844 Sim stopped: average frame rate for last 357 secs = 54.2 fps
-   562844    Max AI traffic was 22 aircraft
-   562844 -------------------------------------------------------------------
-   562844 User aircraft crashed!
-   574750 flights\other\MainMenu.FLT
-   944282 Sim stopped: average frame rate for last 368 secs = 59.8 fps
-   944282    Max AI traffic was 1 aircraft
-   944282 -------------------------------------------------------------------
-   949047 C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Custom\CustomFlight\CustomFlight.FLT
-  1036485 Sim stopped: average frame rate for last 79 secs = 51.7 fps
-  1036485    Max AI traffic was 21 aircraft
-  1036485 -------------------------------------------------------------------
-  1044688 flights\other\MainMenu.FLT
-  1068172 MSFS no longer running - exiting
-  1068172 === Hot key unregistered
-  1068172 === Stop called ...
-  1068188 === Closing external processes we started ...
-  1069188 === About to kill any Lua plug-ins still running ...
-  1069344 === Closing global Lua thread
-  1070360 === About to kill my timers ...
-  1070547 === Restoring window procs ...
-  1070547 === Unloading libraries ...
-  1070547 === stopping other threads ...
-  1070547 === ... Button scanning ...
-  1070657 === ... Axis scanning ...
-  1070750 === Releasing joystick devices ...
-  1070750 === Freeing macro memory
-  1070750 === Removing any offset overrides
-  1070750 === Clearing any displays left
-  1070750 === Calling SimConnect_Close ...
-  1070953 === SimConnect_Close done!
-  1070953 === AI slots deleted!
-  1070953 === Freeing button memory ...
-  1070953 === Closing my Windows ...
-  1070953 === Freeing FS libraries ...
-  1071969 === Closing devices ...
-  1071969 === Closing the Log ... Bye Bye! ...
-  1071969 System time = 17/12/2020 18:14:21
-  1071969 *** FSUIPC log file being closed
-Minimum frame rate was 25.7 fps, Maximum was 64.3 fps
-Average frame rate for running time of 935 secs = 56.7 fps
-Maximum AI traffic for session was 22 aircraft
+      172 System time = 20/03/2021 18:25:15
+      172 FLT path = "C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\"
+      266 -------------------------------------------------------------------
+      313 Registered HotKey 'InvokeFSUIPCOptionsKey' (key=0x46, modifier=0x1)
+      375 FS path = "C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\Packages\"
+      375 ---------------------- Joystick Device Scan -----------------------
+      375 Product= UnoJoy Joystick
+      375    Manufacturer= OpenChord X RMIT Exertion Games Lab
+      375    Vendor=10C4, Product=82C2 (Version 1.0)
+      422    GUIDs returned for product: VID_10C4&PID_82C2:
+      422       GUID= {06F3C540-5C20-11EB-8001-444553540000}
+      422       Details: Btns=14, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R255,U0,V0,X255,Y255,Z255
+      422 Product= TwoJoy Joystick
+      422    Manufacturer= OpenChord X RMIT Exertion Games Lab
+      422    Vendor=10C4, Product=82C4 (Version 1.0)
+      422    GUIDs returned for product: VID_10C4&PID_82C4:
+      422       GUID= {BCB30140-6812-11EB-8001-444553540000}
+      422       Details: Btns=14, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R255,U0,V0,X255,Y255,Z255
+      422 -------------------------------------------------------------------
+      438 Device acquired for use:
+      438    Joystick ID = 0 (Registry okay)
+      438    0=UnoJoy Joystick
+      438    0.GUID={06F3C540-5C20-11EB-8001-444553540000}
+      438 Device acquired for use:
+      438    Joystick ID = 1 (Registry okay)
+      438    1=TwoJoy Joystick
+      438    1.GUID={BCB30140-6812-11EB-8001-444553540000}
+      438 -------------------------------------------------------------------
+      469 LogOptions=00000000 00000001
+     9297 Simulator detected
+   123688 SimConnect_Open succeeded
+   123688 Running in "KittyHawk", Version: 11.0.282174.999 (SimConnect: 11.0.62651.3)
+   123688 MSFS version = 11.0.282174.999
+   123688 Generating controls file list: 'C:\Users\Gaming PC\Documents\FSUIPC7\Controls List for MSFS Build 999.txt'
+   123688 Initialising SimConnect data requests now
+   137032 User Aircraft ID not supplied -- trying default
+   188750 C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\Packages\Official\Steam\asobo-aircraft-c172sp-classic\SimObjects\Airplanes\Asobo_C172sp_classic\aircraft.CFG
+   188969 flights\other\MainMenu.FLT
+   190829 Aircraft loaded: running normally now ...
+   191688 System time = 20/03/2021 18:28:27, Simulator time = 16:28:24 (17:28Z)
+   191688 Aircraft="Cessna Skyhawk Asobo"
+   326516 -------------------- Starting everything now ----------------------
+   329297 C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Custom\CustomFlight\CustomFlight.FLT
+  2614188 Sim stopped: average frame rate for last 2282 secs = 44.9 fps
+  2614188    Max AI traffic was 3 aircraft
+  2614188 -------------------------------------------------------------------
+  2618766 flights\other\MainMenu.FLT
+  2642250 Sim stopped: average frame rate for last 21 secs = 55.0 fps
+  2642250    Max AI traffic was 1 aircraft
+  2642250 -------------------------------------------------------------------
+  2654297 MSFS no longer running - exiting
+  2654297 === Hot key unregistered
+  2654297 === Stop called ...
+  2654313 === Closing external processes we started ...
+  2655313 === About to kill any Lua plug-ins still running ...
+  2655469 === Closing global Lua thread
+  2656469 === About to kill my timers ...
+  2656672 === Restoring window procs ...
+  2656672 === Unloading libraries ...
+  2656672 === stopping other threads ...
+  2656672 === ... Button scanning ...
+  2656782 === ... Axis scanning ...
+  2656875 === Releasing joystick devices ...
+  2656875 === Freeing macro memory
+  2656875 === Removing any offset overrides
+  2656875 === Clearing any displays left
+  2656875 === Calling SimConnect_Close ...
+  2657079 === SimConnect_Close done!
+  2657079 === AI slots deleted!
+  2657079 === Freeing button memory ...
+  2657079 === Closing my Windows ...
+  2657079 === Freeing FS libraries ...
+  2658079 === Closing devices ...
+  2658079 === Closing the Log ... Bye Bye! ...
+  2658079 System time = 20/03/2021 19:09:33
+  2658079 *** FSUIPC log file being closed
+Minimum frame rate was 32.8 fps, Maximum was 61.6 fps
+Average frame rate for running time of 2495 secs = 45.8 fps
+Maximum AI traffic for session was 3 aircraft
 Traffic deletions 0 aircraft
 Memory managed: 2 Allocs, 1 Freed
 ********* FSUIPC Log file closed ***********
