@@ -1,0 +1,25 @@
+Inputs
+
+Øverste linje
+1. Justering av 1023mBar	(Rotary)
+2. Justering av VOR1		(Rotary)
+3. Justering av VOR2		(Rotary)
+
+Første linje
+1. Landing light switch 	(ON/OFF)
+2. Navigation ight switch 	(ON/OFF)
+3. Strob.light switch		(ON/OFF)
+4. GPS. Switch 				(ON/OFF)
+5. Intercom Switch			(ON/OFF)
+
+Andre linje
+6. IGN A switch				(ON/OFF)
+7. IGN B switch				(ON/OFF)
+
+tredje linje
+8. Master og Start motor	(OFF/ON/momentary)
+
+Outputs
+1. On Led per bryter			(ON/OFF)
+2. Hobbs teller (motor timer)	(Display)
+3. Trim Display 				(ON/OFF eller Display)

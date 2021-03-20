@@ -4,7 +4,7 @@
     <config guid="0a2344d7-37b6-4c81-98c3-aeb7c4d78c0b">
       <active>true</active>
       <description />
-      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <source type="FSUIPC" offset="0x0B94" offsetType="Integer" size="4" mask="0xFFFFFFFF" bcdMode="False" />
         <comparison active="False" value="" operand="" ifValue="" elseValue="" />
         <display type="Servo" serial="MobiFlight Mega/ SN-ff8-c01" trigger="normal" servoAddress="Servo" servoMin="0" servoMax="255" servoMaxRotationPercent="100" />
@@ -22,7 +22,7 @@
     <config guid="fb0c68bc-7509-4d10-bf3d-a644402f1f44">
       <active>true</active>
       <description>Encoder 1</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Encoder 1" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Encoder 1" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="FsuipcOffsetInputAction">
             <source type="FSUIPC" offset="0x0330" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-10" />
@@ -45,7 +45,7 @@
     <config guid="9f847215-3324-4da3-b6ed-def0b3f0aaa6">
       <active>true</active>
       <description>Encoder 1 Button</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="EncoderButton" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="EncoderButton" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="KeyInputAction" key="M" />
           <onRelease />
@@ -56,14 +56,14 @@
     <config guid="599037ec-0df2-4035-891f-6cdb654ee1fe">
       <active>true</active>
       <description>Encoder 2</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Encoder 2" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Encoder 2" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <encoder>
           <onLeft type="FsuipcOffsetInputAction">
-            <source type="FSUIPC" offset="0x0BC0" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$+500" />
+            <source type="FSUIPC" offset="0x0C5E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$+1" />
           </onLeft>
           <onLeftFast />
           <onRight type="FsuipcOffsetInputAction">
-            <source type="FSUIPC" offset="0x0BC0" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-500" />
+            <source type="FSUIPC" offset="0x0C5E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-1" />
           </onRight>
           <onRightFast />
         </encoder>
@@ -73,7 +73,7 @@
     <config guid="b8d8f3e1-3d9d-462f-9eec-b6f87e37564d">
       <active>true</active>
       <description>Encoder 2 Button</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Encoder2Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Encoder2Button" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="KeyInputAction" key="B" />
           <onRelease />
@@ -84,7 +84,7 @@
     <config guid="06a47523-eed2-47ba-8c42-fbf4ed4c5702">
       <active>true</active>
       <description>43</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="43" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="43" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="KeyInputAction" key="D3" />
           <onRelease />
@@ -95,10 +95,14 @@
     <config guid="ed884cd5-19af-43d3-b921-c2811aae127d">
       <active>true</active>
       <description>44</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="44" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="44" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
-          <onPress type="KeyInputAction" key="D4" />
-          <onRelease />
+          <onPress type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$+128" />
+          </onPress>
+          <onRelease type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$-128" />
+          </onRelease>
         </button>
         <preconditions />
       </settings>
@@ -106,13 +110,13 @@
     <config guid="b5adf072-fa84-4fd4-8ec5-c93038b351e5">
       <active>true</active>
       <description>45</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="45" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="45" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="FsuipcOffsetInputAction">
-            <source type="FSUIPC" offset="0x028C" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$+1" />
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$+1" />
           </onPress>
           <onRelease type="FsuipcOffsetInputAction">
-            <source type="FSUIPC" offset="0x028C" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$-1" />
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$-1" />
           </onRelease>
         </button>
         <preconditions />
@@ -121,7 +125,7 @@
     <config guid="083bd204-af77-4027-85c9-3896b8e3e896">
       <active>true</active>
       <description>46</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="46" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="46" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="KeyInputAction" key="D6" />
           <onRelease />
@@ -132,10 +136,14 @@
     <config guid="43f846f1-4b8e-430e-bbd3-4a923538398a">
       <active>true</active>
       <description>47</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="47" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="47" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
-          <onPress type="KeyInputAction" key="D7" />
-          <onRelease />
+          <onPress type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$+2" />
+          </onPress>
+          <onRelease type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$-2" />
+          </onRelease>
         </button>
         <preconditions />
       </settings>
@@ -143,7 +151,7 @@
     <config guid="1e2b1cec-5220-45f8-9829-229154ae033d">
       <active>true</active>
       <description>48</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="48" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="48" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="KeyInputAction" key="D8" />
           <onRelease />
@@ -154,10 +162,14 @@
     <config guid="d67eccad-ca7f-499a-be4a-729eee0af477">
       <active>true</active>
       <description>49</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="49" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="49" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
-          <onPress type="KeyInputAction" key="D9" />
-          <onRelease />
+          <onPress type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$+8" />
+          </onPress>
+          <onRelease type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$-8" />
+          </onRelease>
         </button>
         <preconditions />
       </settings>
@@ -165,9 +177,11 @@
     <config guid="0264e1e9-80d7-4ad9-b126-385b245fd62c">
       <active>true</active>
       <description>50</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="50" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="50" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
-          <onPress type="KeyInputAction" key="D0" />
+          <onPress type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="0" />
+          </onPress>
           <onRelease />
         </button>
         <preconditions />
@@ -176,10 +190,14 @@
     <config guid="87bdcfc7-6ce1-4bec-85ee-5cd6da57d656">
       <active>true</active>
       <description>51</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="51" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="51" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
-          <onPress type="KeyInputAction" key="D1" />
-          <onRelease />
+          <onPress type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$+16" />
+          </onPress>
+          <onRelease type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x3122" offsetType="Integer" size="1" mask="0x00FF" bcdMode="False" inputValue="$-16" />
+          </onRelease>
         </button>
         <preconditions />
       </settings>
@@ -187,7 +205,7 @@
     <config guid="31eadc8b-77ec-41e8-826e-d8ef6bd254ce">
       <active>true</active>
       <description>52</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=7.10.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="52" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.0.2.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="52" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
           <onPress type="KeyInputAction" key="D2" />
           <onRelease />
