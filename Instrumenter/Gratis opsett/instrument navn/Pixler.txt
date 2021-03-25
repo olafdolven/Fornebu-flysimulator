@@ -1,0 +1,21 @@
+Bredde Skjerm 1366
+455 pixler på hver. med en pixel værende igjen
+1 0
+2 455
+3 910
+
+Høyde Skjerm 768
+385 pixler på hver
+1 0
+2 385
+
+Størelse 385x385
+bredde plassering med ny størelse. lik avstand
+455-385=70
+35 pixler på hver side
+ny bredde blir derfor
+
+1 35
+2 490
+3 945
+

@@ -32,7 +32,7 @@ start mshta "%splash%"
 timeout /t %delay% /nobreak > NUL
 
 :: start FSUIPC7
-start "" "X:\programmer\FSUICP\FSUIPC7.exe"
+start "" "C:\Users\Gaming PC\Desktop\A22\Instrumenter\FSUICP\FSUIPC7.exe"
 
 exit
 :: End Of Batch

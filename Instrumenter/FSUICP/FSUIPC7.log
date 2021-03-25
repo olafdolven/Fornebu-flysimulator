@@ -1,72 +1,63 @@
 ********* FSUIPC7, Version 7.0.1 (11th November 2020) by John Dowson *********
 No registry entries found for MSFS - setting paths from APPDATA env variable
-Checking for FS path in 'C:\Users\zipol\AppData\Roaming\Microsoft Flight Simulator\UserCfg.opt'
-FS path found = X:\programmer\MSFS\
-WebSocket server found: X:\programmer\FSUICP\\Utils\FSUIPCWebSocketServer.exe
-Windows 10 Pro 64 Bit reported as Build 19041, Release ID: 2004 (OS 10.0)
-Reading options from "X:\programmer\FSUICP\FSUIPC7.ini"
+Checking for FS path in 'C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\UserCfg.opt'
+FS path found = C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\Packages\
+WebSocket server found: C:\Users\Gaming PC\Desktop\A22\Instrumenter\FSUICP\\Utils\FSUIPCWebSocketServer.exe
+Windows 10 Pro 64 Bit reported as Build 18363, Release ID: 1909 (OS 10.0)
+Reading options from "C:\Users\Gaming PC\Desktop\A22\Instrumenter\FSUICP\FSUIPC7.ini"
 Checking the Registrations now ...
 User Name="Olaf Dolven"
 User Addr="olaf.h.dolven@gmail.com"
 FSUIPC7 Key is provided
 WIDEFS7 not user registered, or expired
-      203 System time = 08/12/2020 10:24:36
-      203 FLT path = "C:\Users\zipol\AppData\Roaming\Microsoft Flight Simulator\"
-      421 -------------------------------------------------------------------
-      437 Registered HotKey 'InvokeFSUIPCOptionsKey' (key=0x46, modifier=0x1)
-      453 FS path = "X:\programmer\MSFS\"
-      468 ---------------------- Joystick Device Scan -----------------------
-      468 Product= vJoy - Virtual Joystick
-      468    Manufacturer= Shaul Eizikovich
-      468    Serial Number= 2.1.9
-      468    Vendor=1234, Product=BEAD (Version 2.25)
-      562    GUIDs returned for product: VID_1234&PID_BEAD:
-      562       GUID= {46E45AC0-F34E-11E9-8002-444553540000}
-      562       Details: Btns=32, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R32767,U32767,V32767,X32767,Y32767,Z32767
-      562 Product= RadioMas TX16S Joystick
-      562    Manufacturer= FrSky
-      562    Serial Number= 00000000001B
-      562    Vendor=0483, Product=5710 (Version 2.0)
-      562    GUIDs returned for product: VID_0483&PID_5710:
-      562       GUID= {1AAE6BB0-0826-11EB-8001-444553540000}
-      562       Details: Btns=24, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R2047,U2047,V2047,X2047,Y2047,Z2047
-      562 -------------------------------------------------------------------
-      578 Device acquired for use:
-      578    Joystick ID = 0 (Registry okay)
-      578    0=vJoy Device
-      578    0.GUID={46E45AC0-F34E-11E9-8002-444553540000}
-      578 Device acquired for use:
-      578    Joystick ID = 1 (Registry okay)
-      578    1=RadioMas TX16S Joystick
-      578    1.GUID={1AAE6BB0-0826-11EB-8001-444553540000}
-      578 -------------------------------------------------------------------
-      609 LogOptions=00000000 00000001
-    48453 Simulator detected
-   158500 MSFS no longer running - exiting
-   158500 === Hot key unregistered
-   158500 === Stop called ...
-   158515 === Closing external processes we started ...
-   159531 === About to kill any Lua plug-ins still running ...
-   160687 === About to kill my timers ...
-   160890 === Restoring window procs ...
-   160890 === Unloading libraries ...
-   160890 === stopping other threads ...
-   160890 === ... Button scanning ...
-   160890 === ... Axis scanning ...
-   160890 === Releasing joystick devices ...
-   160890 === Freeing macro memory
-   160890 === Removing any offset overrides
-   160890 === Clearing any displays left
-   160890 === AI slots deleted!
-   160890 === Freeing button memory ...
-   160890 === Closing my Windows ...
-   160890 === Freeing FS libraries ...
-   161890 === Closing devices ...
-   161890 === Closing the Log ... Bye Bye! ...
-   161890 System time = 08/12/2020 10:27:18
-   161890 *** FSUIPC log file being closed
-Minimum frame rate was 32768.0 fps, Maximum was 0.0 fps
-Maximum AI traffic for session was 0 aircraft
-Traffic deletions 0 aircraft
-Memory managed: 1 Allocs, 1 Freed
-********* FSUIPC Log file closed ***********
+      172 System time = 20/03/2021 19:49:17
+      172 FLT path = "C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\"
+      219 -------------------------------------------------------------------
+      250 Registered HotKey 'InvokeFSUIPCOptionsKey' (key=0x46, modifier=0x1)
+      297 FS path = "C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\Packages\"
+      297 ---------------------- Joystick Device Scan -----------------------
+      328 Product= UnoJoy Joystick
+      328    Manufacturer= OpenChord X RMIT Exertion Games Lab
+      328    Vendor=10C4, Product=82C2 (Version 1.0)
+      328    GUIDs returned for product: VID_10C4&PID_82C2:
+      328       GUID= {06F3C540-5C20-11EB-8001-444553540000}
+      328       Details: Btns=14, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R255,U0,V0,X255,Y255,Z255
+      328 Product= TwoJoy Joystick
+      328    Manufacturer= OpenChord X RMIT Exertion Games Lab
+      328    Vendor=10C4, Product=82C4 (Version 1.0)
+      328    GUIDs returned for product: VID_10C4&PID_82C4:
+      328       GUID= {BCB30140-6812-11EB-8001-444553540000}
+      328       Details: Btns=14, POVs=(0, 0, 0, 0), Cal=x00000000, Max=R255,U0,V0,X255,Y255,Z255
+      328 -------------------------------------------------------------------
+      344 Device acquired for use:
+      344    Joystick ID = 0 (Registry okay)
+      344    0=UnoJoy Joystick
+      344    0.GUID={06F3C540-5C20-11EB-8001-444553540000}
+      344 Device acquired for use:
+      344    Joystick ID = 1 (Registry okay)
+      344    1=TwoJoy Joystick
+      344    1.GUID={BCB30140-6812-11EB-8001-444553540000}
+      344 -------------------------------------------------------------------
+      375 LogOptions=00000000 00000001
+    12250 Simulator detected
+   108703 **** SimConnect open event not received in required time limit: Re-connecting now...
+   110359 SimConnect_Open succeeded
+   110375 Running in "KittyHawk", Version: 11.0.282174.999 (SimConnect: 11.0.62651.3)
+   110375 MSFS version = 11.0.282174.999
+   110375 Generating controls file list: 'C:\Users\Gaming PC\Documents\FSUIPC7\Controls List for MSFS Build 999.txt'
+   110375 Initialising SimConnect data requests now
+   119390 User Aircraft ID not supplied -- trying default
+   181031 C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\Packages\Official\Steam\asobo-aircraft-c172sp-classic\SimObjects\Airplanes\Asobo_C172sp_classic\aircraft.CFG
+   181344 flights\other\MainMenu.FLT
+   183219 Aircraft loaded: running normally now ...
+   183531 System time = 20/03/2021 19:52:20, Simulator time = 17:52:18 (18:52Z)
+   183531 Aircraft="Cessna Skyhawk Asobo"
+   190937 -------------------- Starting everything now ----------------------
+   348156 Sim stopped: average frame rate for last 165 secs = 53.9 fps
+   348156    Max AI traffic was 0 aircraft
+   348156 -------------------------------------------------------------------
+   357234 C:\Users\Gaming PC\AppData\Roaming\Microsoft Flight Simulator\MISSIONS\Custom\CustomFlight\CustomFlight.FLT
+   782703 Sim stopped: average frame rate for last 420 secs = 47.7 fps
+   782703    Max AI traffic was 1 aircraft
+   782703 -------------------------------------------------------------------
+   787109 flights\other\MainMenu.FLT

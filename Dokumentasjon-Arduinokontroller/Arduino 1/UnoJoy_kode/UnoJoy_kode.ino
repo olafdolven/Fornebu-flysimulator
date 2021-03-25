@@ -105,10 +105,20 @@ dataForController_t getControllerData(void){
   //Digitale outputs
   controllerData.squareOn = digitalRead(2);           //Windows 1
   controllerData.crossOn = digitalRead(3);            //Windows 2
-  controllerData.circleOn = digitalRead(4);           //Windows 3
-  controllerData.triangleOn = digitalRead(5);         //Windows 4
-  controllerData.l1On = digitalRead(6);               //Windows 5
-  controllerData.r1On = digitalRead(7);                 //Windows 6
+  
+  if (digitalRead(4) == HIGH && digitalRead(5) == HIGH){
+    controllerData.l1On = HIGH; //Windows 5
+  }
+  else if (digitalRead(4) == HIGH){
+    controllerData.circleOn = HIGH; // Windows 3
+  }
+  else if (digitalRead(5) == HIGH){
+    controllerData.triangleOn = HIGH; //Windows 4
+  }
+  else if (digitalRead(4) == LOW && digitalRead(5) == LOW){
+    controllerData.r1On = HIGH;  // Windows 6
+  }
+  
   controllerData.l2On = digitalRead(8);                 //Windows 7
   controllerData.r2On = digitalRead(9);                 //Windows 8
   controllerData.selectOn = digitalRead(10);            //Windows 9
