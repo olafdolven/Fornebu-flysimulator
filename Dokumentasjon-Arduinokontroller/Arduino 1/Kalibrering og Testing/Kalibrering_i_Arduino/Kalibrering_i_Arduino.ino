@@ -14,4 +14,6 @@ void loop() {
   
   Serial.print("  A13 = ");
   Serial.println(analogRead(A3));
+
+  delay(100);
 }

@@ -11,17 +11,17 @@
 
 //       Kalibrering
 //  <------------------------------------------------------------------------------------------->
-double minA10 = 0 - 10;         //A0    -   UnoJoy
-double maxA10 = 1023 + 10;      //A0    -   UnoJoy
+double minA10 = 270 - 10;         //A0    -   UnoJoy
+double maxA10 = 820 + 10;         //A0    -   UnoJoy
 
-double minA11 = 0 - 10;         //A1    -   UnoJoy    
-double maxA11 = 1023 + 10;      //A1    -   UnoJoy
+double minA11 = 170 - 10;         //A1    -   UnoJoy    
+double maxA11 = 830 + 10;         //A1    -   UnoJoy
 
-double minA12 = 0 - 10;         //A2    -   UnoJoy
-double maxA12 = 1023 + 10;      //A2    -   UnoJoy
+double minA12 = 554 - 10;         //A2    -   UnoJoy
+double maxA12 = 880 + 10;         //A2    -   UnoJoy
 
-double minA13 = 0 - 10;         //A3    -   UnoJoy
-double maxA13 = 1023 + 10;      //A3    -   UnoJoy
+double minA13 = 198 - 10;         //A3    -   UnoJoy
+double maxA13 = 926 + 10;         //A3    -   UnoJoy
 //  <------------------------------------------------------------------------------------------->
 
 
@@ -122,7 +122,7 @@ dataForController_t getControllerData(void){
   inA10 = analogRead(A0);
   inA11 = analogRead(A1);
   inA12 = analogRead(A2);
-  inA13 = analogRead(A3);
+  inA13 = analogRead(A3)+(analogRead(A2)/400);
 
   outA10 = (int)(((inA10 - minA10)/(maxA10 - minA10))*255);
   outA11 = (int)(((inA11 - minA11)/(maxA11 - minA11))*255);

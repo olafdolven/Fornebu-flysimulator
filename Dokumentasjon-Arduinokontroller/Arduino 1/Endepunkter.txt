@@ -1,0 +1,7 @@
+A Aileron Blanseror	A1.0   -  270 --> 820
+E Elevator Høyderor	A1.1   -  170 --> 830
+T Throttle Gass		A1.2   -  554 --> 880
+R Rudder Sideror	A1.3   -  198 --> 926
+
+T Trim Trim		A2.0   -  195 --> 785
+F Flap Flap		A2.1   -  320 --> 990
