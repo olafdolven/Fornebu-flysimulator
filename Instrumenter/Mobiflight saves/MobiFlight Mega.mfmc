@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ModuleName />
+  <ModuleName>MobiFlight Mega</ModuleName>
   <PowerSavingTime>600</PowerSavingTime>
-  <Stepper Name="Stepper" Pin1="2" Pin2="3" Pin3="4" Pin4="5" BtnPin="0" />
+  <Button Name="SimRate Button" Pin="53" />
+  <Encoder Name="SimRate" PinLeft="52" PinRight="51" EncoderType="0" />
+  <Button Name="VOR2 Button" Pin="50" />
+  <Encoder Name="VOR2" PinLeft="49" PinRight="48" EncoderType="0" />
+  <Button Name="VOR1 Button" Pin="47" />
+  <Encoder Name="VOR1" PinLeft="46" PinRight="45" EncoderType="0" />
+  <Button Name="ALT Button" Pin="44" />
+  <Encoder Name="ALT" PinLeft="43" PinRight="42" EncoderType="0" />
+  <Button Name="Panel" Pin="41" />
+  <Button Name="Beacon" Pin="40" />
+  <Button Name="NAV" Pin="39" />
+  <Button Name="Strobe" Pin="38" />
+  <Button Name="Taxi" Pin="37" />
+  <Button Name="Landing" Pin="36" />
 </Config>
