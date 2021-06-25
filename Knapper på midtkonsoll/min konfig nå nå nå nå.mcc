@@ -685,27 +685,23 @@
       </settings>
     </config>
     <config guid="7f253daa-c560-4116-9483-cebd826d1884">
-      <active>false</active>
-      <description>test</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1 COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <active>true</active>
+      <description>6 ctrl f4</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="6" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
-          <onPress type="FsuipcOffsetInputAction">
-            <source type="FSUIPC" offset="0x0374" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="256" />
-          </onPress>
-          <onRelease type="FsuipcOffsetInputAction">
-            <source type="FSUIPC" offset="0x0374" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="512" />
-          </onRelease>
+          <onPress type="KeyInputAction" key="Alt+F4" />
+          <onRelease />
         </button>
         <preconditions />
         <configrefs />
       </settings>
     </config>
     <config guid="bab38ed8-226b-4ec8-9fae-951fdd54a779">
-      <active>false</active>
-      <description>test3</description>
-      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1 COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <active>true</active>
+      <description>5 win l</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="5" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
         <button>
-          <onPress type="KeyInputAction" key="D1" />
+          <onPress type="KeyInputAction" key="Ctrl+Alt+D5" />
           <onRelease type="KeyInputAction" key="D2" />
         </button>
         <preconditions />

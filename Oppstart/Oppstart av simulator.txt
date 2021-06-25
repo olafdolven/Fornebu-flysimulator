@@ -1,0 +1,30 @@
+1. Slå på begge hovedskjermer enten ved fjernkontroll elle rtrykke på knappen bak
+2. lås opp PC ved å trykke enter to ganger
+3. Åpne Xplane ved å dobbeltrykke på logoen på venstre hovedskjerm
+4. Pass på:
+Chocke off
+Parking Brake closed
+Nøkkel off/venstre
+ALT på
+BAT på
+Avionics På
+Panel På
+
+5. Når du står klar på rullebanen trykk på knapp 1 for å aktivere nøkkelbryter og drivstoffspeiler
+(om en av sakjermene slutter å funke prøv å beveg musepekeren)
+6. Start motoren ved hjelp av nøkkel bryter
+7. Koble av parkeringsbrems
+
+Under flyvning 
+Knapp2. vanlig visning
+Knapp3. visning av cokpit
+Knapp4. visning av utsiden
+Knapp7. Pause
+
+Slå av
+1. Pause Xplane ved hjelp av knapp 7
+2. Lukk Xplane ved hjelp av knapp 6
+3. Trykk OK om det dukker opp notifikasjonsboks
+4. Lås PCen ved hjelp av knapp 5
+5. Slå av skjermene enten med en fjernkontroll eller med knappene på baksiden
+1. Pause Xpålane

@@ -1,5 +1,5 @@
 ﻿^!1::
 Send, #1
-Sleep, 100
-Send, #2SSS
+Sleep, 1000
+Send, #2
 Return
