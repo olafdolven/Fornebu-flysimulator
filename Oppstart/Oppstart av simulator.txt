@@ -1,6 +1,7 @@
 1. Slå på begge hovedskjermer enten ved fjernkontroll elle rtrykke på knappen bak
 2. lås opp PC ved å trykke enter to ganger
 3. Åpne Xplane ved å dobbeltrykke på logoen på venstre hovedskjerm
+(Om steam klager på internett tilgang, trykk start i offline modus)
 4. Pass på:
 Chocke off
 Parking Brake closed
@@ -25,6 +26,5 @@ Slå av
 1. Pause Xplane ved hjelp av knapp 7
 2. Lukk Xplane ved hjelp av knapp 6
 3. Trykk OK om det dukker opp notifikasjonsboks
-4. Lås PCen ved hjelp av knapp 5
+4. Lås PCen ved å trykk win+L
 5. Slå av skjermene enten med en fjernkontroll eller med knappene på baksiden
-1. Pause Xpålane
