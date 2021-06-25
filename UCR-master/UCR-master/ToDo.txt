@@ -1,0 +1,15 @@
+Note from previously:
+"Timer state changed in UpdateBinding for AHK Joystick hats in ProfileInputThread
+Should not happen"
+Don't remember exactly what this refers to, Hat timer was disabled in code, resulting in hats not working, enabled in 0.1.8
+Ignore?
+
+Note from previously:
+"Joystick button bindings need to be turned off for outputbuttons
+When suspend, off happens, these become active even though they are not wanted.
+Non-fatal as the bind handler does not accept them
+Just add filter? Check if return type is not in mappings, and if so, do not fire callback"
+OutputButtons, Hotkeys? Not sure what this was about
+
+From old ToDo:
+* Sort out _RequestBinding / _RefreshBinding - may already be done?

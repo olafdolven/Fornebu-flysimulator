@@ -12,15 +12,15 @@
 //       Kalibrering
 //  <------------------------------------------------------------------------------------------->
 double minA10 = 270 - 10;         //A0    -   UnoJoy
-double maxA10 = 820 + 10;         //A0    -   UnoJoy
+double maxA10 = 825 + 10;         //A0    -   UnoJoy
 
-double minA11 = 170 - 10;         //A1    -   UnoJoy    
+double minA11 = 160 - 10;         //A1    -   UnoJoy    
 double maxA11 = 830 + 10;         //A1    -   UnoJoy
 
-double minA12 = 554 - 10;         //A2    -   UnoJoy
-double maxA12 = 880 + 10;         //A2    -   UnoJoy
+double minA12 = 216 - 10;         //A2    -   UnoJoy
+double maxA12 = 497 + 10;         //A2    -   UnoJoy
 
-double minA13 = 198 - 10;         //A3    -   UnoJoy
+double minA13 = 190 - 10;         //A3    -   UnoJoy
 double maxA13 = 926 + 10;         //A3    -   UnoJoy
 //  <------------------------------------------------------------------------------------------->
 

@@ -103,7 +103,13 @@ dataForController_t getControllerData(void){
   dataForController_t controllerData = getBlankDataForController();
 
   //Digitale outputs
-  controllerData.squareOn = digitalRead(2);             //Windows 1
+  if (analogRead(A3) >= 500) {
+    controllerData.squareOn = HIGH;
+  }
+  else{
+    controllerData.squareOn = LOW;
+  }
+  //controllerData.squareOn = digitalRead(2);             //Windows 1
   controllerData.crossOn = digitalRead(3);              //Windows 2
   controllerData.circleOn = digitalRead(4);             //Windows 3
   controllerData.triangleOn = digitalRead(5);           //Windows 4

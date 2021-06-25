@@ -1,0 +1,16 @@
+*.ini
+*.exe
+*.zip
+*.lnk
+*.scc
+*.db
+*.bak
+*.tmp.*
+_Ignore
+!*.dll
+msvcr100.dll
+/Plugins/*
+!.gitignore
+!/Plugins/Core
+!devcon.exe
+backup

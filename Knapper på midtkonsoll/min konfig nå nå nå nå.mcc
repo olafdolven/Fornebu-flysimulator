@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MobiflightConnector>
+  <outputs />
+  <inputs>
+    <config guid="2e23f814-fc12-4291-9928-8cbd3b1a0a75">
+      <active>true</active>
+      <description>ALT</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="ALT" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0330" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$+10" />
+          </onLeft>
+          <onLeftFast />
+          <onRight type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0330" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-10" />
+          </onRight>
+          <onRightFast />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a34931cc-8d7b-4f23-bbce-61053b7befb5">
+      <active>true</active>
+      <description>ALT bryter on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="ALT bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="1" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="1" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4b1c8ec9-4a3f-4538-b441-84dc76a4d744">
+      <active>true</active>
+      <description>ALT bryter off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="ALT bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="2" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="2" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a004cf80-6caa-4f9d-aa37-1518b7e12b60">
+      <active>true</active>
+      <description>VOR1</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="VOR1" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C4E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$+1" />
+          </onLeft>
+          <onLeftFast type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C4E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$+5" />
+          </onLeftFast>
+          <onRight type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C4E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-1" />
+          </onRight>
+          <onRightFast type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C4E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-5" />
+          </onRightFast>
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="55e8f293-d7bd-4eb6-a22d-821c77bf6f45">
+      <active>true</active>
+      <description>VOR1 bryter on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="VOR1 bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="3" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="3" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="8c988b5f-25fd-4929-9fed-fbf2dcf73ddd">
+      <active>true</active>
+      <description>VOR1 bryter off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="VOR1 bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="4" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="4" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="2d8045d6-d675-4f85-9453-f385a9e7bb2b">
+      <active>true</active>
+      <description>VOR2 </description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="VOR2" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C5E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$+1" />
+          </onLeft>
+          <onLeftFast type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C5E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$+5" />
+          </onLeftFast>
+          <onRight type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C5E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-1" />
+          </onRight>
+          <onRightFast type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0C5E" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="$-5" />
+          </onRightFast>
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a3e9237d-e7ed-432b-adc8-8616bd7b5c0a">
+      <active>true</active>
+      <description>VOR2 bryter on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="VOR2 bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="5" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="5" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="70c0ff6e-94bf-4918-a802-7313c355cf74">
+      <active>true</active>
+      <description>VOR2 bryter off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="VOR2 bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="6" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="6" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="83915498-11a4-4a24-b6bb-145ddd3be835">
+      <active>true</active>
+      <description>SimRate</description>
+    </config>
+    <config guid="002c7625-681c-4ab6-96c9-e72adab7e470">
+      <active>true</active>
+      <description>SimRate bryter on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="SimRate bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="7" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="7" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4625db5d-33a9-466a-90ec-558a823294b8">
+      <active>true</active>
+      <description>SimRate bryter off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="SimRate bryter" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="8" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="8" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="9bf93714-68ec-474a-ba65-c8814a0ff918">
+      <active>true</active>
+      <description>COM1COM2 on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1 COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="9" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="9" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="2732ffdb-82ca-4f98-b627-d7a955f16641">
+      <active>true</active>
+      <description>COM1COM2 off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1 COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="10" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="10" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="977ab249-5a30-4b84-b944-61f288b44bf5">
+      <active>false</active>
+      <description>Both on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Both" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="11" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="11" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="3ff839ef-c62a-4a70-b4f2-884506efa62a">
+      <active>false</active>
+      <description>Both off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Both" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="12" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="12" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="d2161395-89f6-4188-b8f7-98733fbe0331">
+      <active>false</active>
+      <description>COM1 on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="13" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="13" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="801bc4e0-cb11-4817-8e6a-e3e5ab659ee7">
+      <active>false</active>
+      <description>COM1 off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="14" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="14" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="1f1e2e34-5315-46ad-8e7f-9c00de6f4141">
+      <active>false</active>
+      <description>COM2 on </description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="15" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="15" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="50ec40dc-a7f8-45c4-ab15-4ceece08704b">
+      <active>false</active>
+      <description>COM2 off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="16" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="16" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="9f1358f3-d17a-4390-b044-dd4165de28e5">
+      <active>false</active>
+      <description>Transmitt COM1 on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Transmitt COM1 " type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="17" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="17" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="9e495033-9957-4696-b22b-93ea625a2aa2">
+      <active>false</active>
+      <description>Transmitt COM1 off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Transmitt COM1 " type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="18" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="18" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="e9039cc4-f7a4-4384-a5e0-8b8bb3b94966">
+      <active>true</active>
+      <description>NAV1 on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="NAV1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="19" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="19" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="767503fa-d494-4773-ba67-ac7fe45eb825">
+      <active>true</active>
+      <description>NAV1 off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="NAV1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="20" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="20" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="49179234-32a3-4f1a-84e7-e4a20dca2c6b">
+      <active>true</active>
+      <description>NAV2 on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="NAV2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="21" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="21" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="c3bd0740-7d1f-45af-8f9f-0b5a6f1cc475">
+      <active>true</active>
+      <description>NAV2 off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="NAV2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="22" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="22" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="eae79d50-3397-43e9-aa43-dae8e1659db8">
+      <active>true</active>
+      <description>GPSNAV on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="GPS NAV" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x132C" offsetType="Integer" size="4" mask="0xFFFFFFFF" bcdMode="False" inputValue="0" />
+          </onPress>
+          <onRelease type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x132C" offsetType="Integer" size="4" mask="0xFFFFFFFF" bcdMode="False" inputValue="1" />
+          </onRelease>
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="b50b6963-8846-4abb-91f3-d52b07031061">
+      <active>true</active>
+      <description>GPSNAV off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="GPS NAV" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="24" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="24" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="954c5bf4-06a6-4e1b-80b1-d039b355c280">
+      <active>true</active>
+      <description>Panel on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Panel" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="25" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="25" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="8c70c688-3d6b-4070-9df1-6aa394d75047">
+      <active>true</active>
+      <description>Panel off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Panel" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="26" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="26" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="40a43ccd-5ae9-4368-b149-a27012ddc3e5">
+      <active>true</active>
+      <description>Beacon on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Beacon" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="27" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="27" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="f32e9052-3f20-4e7a-921a-51907438ccfb">
+      <active>true</active>
+      <description>Beacon off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Beacon" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="28" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="28" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="c439b872-341e-432e-b401-93baa0a9b0ef">
+      <active>true</active>
+      <description>NAV on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="NAV" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="29" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="29" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="03949fd6-d535-41d9-ae03-3b5ef31d351d">
+      <active>true</active>
+      <description>NAV off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="NAV" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="30" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="30" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a01347ac-91be-43fc-9115-4b7503684f52">
+      <active>true</active>
+      <description>Strobe on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Strobe" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="31" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="31" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="85a53e5d-bfd9-4d8b-8443-66416fc90fe2">
+      <active>true</active>
+      <description>Strobe off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Strobe" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="32" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="32" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="3f906002-fad7-427d-ac82-77fea8eaa475">
+      <active>true</active>
+      <description>Taxi on </description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Taxi" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="33" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="33" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="f08c5e8c-440d-4b13-822e-d3a08b68b4de">
+      <active>true</active>
+      <description>Taxi off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Taxi" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="34" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="34" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="57c57eb7-f8cc-4eef-af6d-9dc63cbad183">
+      <active>true</active>
+      <description>Landing on </description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Landing" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="35" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="35" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="cedd14e7-1953-4d93-b6b4-30a8320549f4">
+      <active>true</active>
+      <description>Landing off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Landing" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="36" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="36" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="5907b980-4563-41e1-aae9-6c43c1d6a065">
+      <active>true</active>
+      <description>Master ALT on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Master ALT" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="37" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="37" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="30d0b91c-1430-48dc-97a1-36337df7b1d4">
+      <active>true</active>
+      <description>Master ALT off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Master ALT" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="38" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="38" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a8be4927-38b4-4c1b-8d0e-963c08741851">
+      <active>true</active>
+      <description>Master BAT on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Master BAT" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="39" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="39" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="104cc319-2b75-4395-a378-9c362ca4daad">
+      <active>true</active>
+      <description>Master BAT off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Master BAT" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="40" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="40" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="2070563b-7348-4dc9-8839-58c0495b0b9e">
+      <active>true</active>
+      <description>Master Avionics on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Master avionics" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="41" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="41" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="4391ad3f-fa3d-443b-b6ed-1f19b8c0892e">
+      <active>true</active>
+      <description>Master Avionics off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Master avionics" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="42" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="42" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="81c84334-82c5-43a2-b83f-170825850907">
+      <active>true</active>
+      <description>Fuel Pump on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Fuel Pump" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="43" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="43" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="bb6a75a2-4955-47fa-bfe2-a89379d73885">
+      <active>true</active>
+      <description>Fuel Pump off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="Fuel Pump" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="44" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="44" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="660bf65e-facf-4d9b-a884-47668db73bc5">
+      <active>true</active>
+      <description>De-Ice on</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="de ice" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="45" buttonCmd="True" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="45" buttonCmd="False" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="07bc3966-1f26-465a-a118-8fc26dba227b">
+      <active>true</active>
+      <description>De-ice off</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="de ice" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="vJoyInputAction" vJoyId="1" buttonNr="46" buttonCmd="False" Axis="" axisVal="" />
+          <onRelease type="vJoyInputAction" vJoyId="1" buttonNr="46" buttonCmd="True" Axis="" axisVal="" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="673e80e4-d5c3-49dd-87a0-0f513974ac96">
+      <active>true</active>
+      <description>1 Start fuel og key</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="1" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="KeyInputAction" key="Ctrl+Alt+D1" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="97b187f6-61d8-4f44-ba12-f126f24c0578">
+      <active>true</active>
+      <description>2 Standard View</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="KeyInputAction" key="W" />
+          <onRelease type="KeyInputAction" key="None" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="74177a05-7a82-42b6-a32c-9cd1636dff7c">
+      <active>true</active>
+      <description>3 Cokpit View</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="3" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="KeyInputAction" key="Shift+D9" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="378004b1-f7e2-4618-8dd0-4c8a53856313">
+      <active>true</active>
+      <description>4 Outside view</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="4" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="KeyInputAction" key="Shift+D8" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="5d657be8-faac-4302-a29a-f7102b433ab2">
+      <active>true</active>
+      <description>7 Pause</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="7" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="KeyInputAction" key="P" />
+          <onRelease />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="7f253daa-c560-4116-9483-cebd826d1884">
+      <active>false</active>
+      <description>test</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1 COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0374" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="256" />
+          </onPress>
+          <onRelease type="FsuipcOffsetInputAction">
+            <source type="FSUIPC" offset="0x0374" offsetType="Integer" size="2" mask="0xFFFF" bcdMode="False" inputValue="512" />
+          </onRelease>
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="bab38ed8-226b-4ec8-9fae-951fdd54a779">
+      <active>false</active>
+      <description>test3</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=8.2.0.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Mega/ SN-ff8-c01" name="COM1 COM2" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="KeyInputAction" key="D1" />
+          <onRelease type="KeyInputAction" key="D2" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+  </inputs>
+</MobiflightConnector>

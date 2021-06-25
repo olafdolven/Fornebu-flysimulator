@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleName>MobiFlight Mega</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <Encoder Name="ALT" PinLeft="52" PinRight="51" EncoderType="1" />
+  <Button Name="ALT bryter" Pin="53" />
+  <Encoder Name="VOR1" PinLeft="49" PinRight="48" EncoderType="2" />
+  <Button Name="VOR1 bryter" Pin="50" />
+  <Encoder Name="VOR2" PinLeft="46" PinRight="45" EncoderType="2" />
+  <Button Name="VOR2 bryter" Pin="47" />
+  <Encoder Name="SimRate" PinLeft="43" PinRight="42" EncoderType="1" />
+  <Button Name="SimRate bryter" Pin="44" />
+  <Button Name="COM1 COM2" Pin="34" />
+  <Button Name="Both" Pin="35" />
+  <Button Name="COM1" Pin="31" />
+  <Button Name="COM2" Pin="29" />
+  <Button Name="Transmitt COM1 " Pin="28" />
+  <Button Name="NAV1" Pin="32" />
+  <Button Name="NAV2" Pin="33" />
+  <Button Name="GPS NAV" Pin="30" />
+  <Button Name="Panel" Pin="41" />
+  <Button Name="Beacon" Pin="40" />
+  <Button Name="NAV" Pin="39" />
+  <Button Name="Strobe" Pin="38" />
+  <Button Name="Taxi" Pin="37" />
+  <Button Name="Landing" Pin="36" />
+  <Button Name="Master ALT" Pin="23" />
+  <Button Name="Master BAT" Pin="24" />
+  <Button Name="Master avionics" Pin="25" />
+  <Button Name="Fuel Pump" Pin="26" />
+  <Button Name="de ice" Pin="27" />
+  <Button Name="7" Pin="15" />
+  <Button Name="6" Pin="16" />
+  <Button Name="5" Pin="17" />
+  <Button Name="4" Pin="18" />
+  <Button Name="3" Pin="19" />
+  <Button Name="2" Pin="20" />
+  <Button Name="1" Pin="21" />
+</Config>
