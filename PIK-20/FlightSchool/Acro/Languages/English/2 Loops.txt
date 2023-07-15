@@ -1,0 +1,12 @@
+000020 Hello, today quick fun lesson. Loops.
+000067 Duo Discus is not aerobatic glider, but loops can be done smoothly. At first speed up to about 200km/h.
+000151 Level flight, keeping around 200km/h. Then pull stick back. 
+000189 Remember not to loose too much speed on top of the loop.
+000232 Keep wings level during whole manouver. Artificial horizon gauge can help with orientation while inverted.
+000351 Once again. 200km/h, level flight, stick backward, watch airspeed, loop done, keep level flight.
+000597 If navigation helpers are enabled, You can tick acro box to be set over airfield.
+000757 Wingtip smokes can make acro training more effective, and much more fun.
+000786 That smoke can be enabled with 'T' key by default.
+000868 Let's make loop with wingtip smoke.
+001120 Nice, isn't it?
+001426 Use imagination to draw in air. 

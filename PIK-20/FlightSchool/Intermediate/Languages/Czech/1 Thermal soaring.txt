@@ -1,0 +1,20 @@
+000008 Nejsnazší zpùsob jak najít stoupavý proud je hledat pod mraky.
+000066 Tenhle vypadá pìknì.
+000192 Klávesou H mùžete zapnout pomocníka pro hledání stoupákù. Ujistìte se, že je tato možnost aktivována na obrazovce NOTAM plánovaèe letù.
+000288 Vìtšina online závodù má tuto možnost neaktivní, protože i ve skuteèném svìtì žádnou takovou možnost nemáte.
+000404 Kolem stoupákù obvykle bývá zvýšení opadání, proto je lepší k nim pøilétat na trochu vìtší rychlosti.
+000504 Pøi vlétnutí do stoupáku zpomalte, ale nezaèínejte toèit, dokud stoupání nezesílí.
+000550 Chvíli pøedtím, než zaène stoupání slábnout, zaènìte toèit, abyste se udrželi ve stoupáku.
+000748 Pokud se stoupání zlepšuje, trochu se prodlužte. Pokud se stoupání zhoršuje, zkuste ostøejší toèení.
+001021 Stoupák jsme dobøe "ustøedili".
+001227 Teï zkusíme další stoupák.
+001324 V hornatém terénu stoupáky obvykle kopírují kontury kopce a utrhnou se až na vrcholu.
+001852 Stoupání se zesiluje, takže se trochu prodlužte.
+002104 Pìknì ustøedìno. S využitím pomocníka pro ustøeïování to bylo samozøejmì snadné.
+002598 Teï zkusíme ten malý stoupák vpravo. Nìkteré stoupáky nedosahují až do základny, ale i ty mohou zachránit váš let.
+002715 Schválnì jsme vysunili brzdící klapky, abychom se dostali níže.
+003232 Povrchové stoupáky jsou obvykle slabší.
+003494 Zkusíme jiný. Ten pøed námi má dvì jádra. To èervené je hlavní jádro - je nejsilnìjší.
+003653 Vypadá to, že se pomalu rozpadá, protože barva bledne.
+003961 Ještì poskytuje nìjaké stoupání, ale už ne moc dlouho.
+004276 Èas vyrazit k dalšímu.

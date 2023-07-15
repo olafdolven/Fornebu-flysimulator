@@ -1,0 +1,27 @@
+000027 Hello, today we are too low and far from cumulus clouds so outlanding lesson awaits.
+000098 When altitude drops under 500 meters and there are no obvious lifts nearby, flying near safe fields should be priority.
+000200 There some fields ahead.
+000309 There are some steps to decide what field is good to land on.
+000363 1. Size - glider should fit in with rolling. Remember that obstacles are making it harder. Field should be roughly 20 meters longer for each meter of obstacle on edge.
+000450 2. Slope and wind. On flat fields always land against the wind, on hilly ones - against the slope.
+000555 There is some 15km/h wind from direction 100-120 degrees.
+000639 So now it is basically headwind.
+000723 That area is not suitable to outland at all...
+000763 And some fields can be found there
+000859 This one is big enough, but landing would be with crosswind, against hill.
+000982 Important is not to change mind under certain altitude. Let's set 300 meters for 'decision height'. Under it, only outlanding manouvers are done.
+001101 That fields are small and not so flat...
+001181 And this is againt wind, but smaller than first field.
+001435 We dropped below 300 meters. Gear down and quick decision about field!
+001637 When landing against wind, small field has some trees on final. Better option is bigger one.
+001855 When landing uphill, final will be clear from any trees.
+002092 Take a good look to the chosen field. Making landing circuit is last chance for any plans.
+002268 Left part of this field is longer but more bumpy. Right is still long enough for glider and much safer.
+002419 We entered landing circuit.
+002543 Just as in airfield circuit, make sure where glider and field is. Losing range to reach landing area is critical mistake.
+002656 There it is...
+002806 We are too high. Full airbrakes and side slip should handle it.
+002841 To make sideslip, push stick to one side and push opposite rudder.  It makes drag higher, therefore increases sink.
+002927 Keep wings level to the field surface.
+002980 The rest is just as on airfield. If wing catches ground pull stick hard forward.
+004541 Condor 2 does not simulate retrieving from field in sake of player's comfort. Now it is time to do some cross-country flying.

@@ -1,0 +1,19 @@
+000031 Úlohu zahájíte prùletem prvním bodem trati. Na obrazovce 1 PDA je zobrazen èervenì. 
+000210 Mùžete si také zapnout pomocníka na otoèné body. Ty jsou pak zobrazeny jako svislé sloupy. 
+000457 Pokud prolétnete otoèným bodem, zmìní se všechny údaje na PDA na informace o následujícím otoèném bodu. 
+000542 Následující otoèný bod je zobrazen jako èerveno žlutý sloup, ostatní pak jako èerveno bílé. 
+000626 Na obrazovce 2 našeho PDA ukazuje èerný bod smìr k následujícímu otoènému bodu. 
+000657 Když je bod pøesnì uprostøed obrazovky, letíme pøímo k otoènému bodu. 
+000703 Vidíte zde také smìr, kurz, vzdálenost k OB, rychlost smìrem k OB, dobu do pøíletu a odhadovaný èas pøíletu. 
+000881 Vidíte, že když zmìníme smìr, èerný bod se hýbe. 
+001264 Prùletem èervenì oznaèeným sektorem otoèíme OB. 
+001446 Pøed námi máme zakázanou oblast. Pokud jí proletíme, dostaneme trestné body. 
+001499 Na mapì vidíme, že za každou minutu strávenou v oblasti dostaneme 5 trestných bodù. 
+001576 Takže jí podletíme. 
+001999 Zatím jsme se setkali s klasickými otoènými body podle FAI. Nyní máme pøed sebou otoèný bod typu okno. 
+002064 Na správné otoèení tohoto OB využijeme obrazovku 3 našeho PDA. 
+002124 Èervený bod zobrazuje naši výšku a smìr vzhledem ke støedu okna. 
+002168 Modrá èára ukazuje pozici støedové linie okna. 
+002227 Je to podobné jako létání podle ILs. Musíme dostat modrou èáru do støedu obrazovky. 
+002563 Abychom úlohu ukonèili, musíme už otoèit jen poslední OB. 
+002965 Úloha dokonèena.

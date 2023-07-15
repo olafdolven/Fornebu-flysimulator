@@ -1,0 +1,8 @@
+000040 Vyzkoušejte si plné výchylky kniplu a pedálù a ovìøte si, že nejsou nikde blokovány a neozývají se divné zvuky. 
+000154 Klapky by pøi vzletu mìly být na neutrál, ale nìkteøí piloti si je dávají jeden zoubek do mínusu, kvùli lepší odezvì køidélek. 
+000219 Brzdy musí byt zavøeny a zajištìny. 
+000248 Zkontrolujte vìtrný pytel. 
+000289 Máme trochu boèní vítr, takže nezapomeòte dát pøi startu trochu levou nohu. 
+000366 Výškomìr je už nastavený na výšku letištì. Nastavení mùžeme upravit klávesami MÍNUS a ROVNÍTKO (implicitní nastavení). 
+000443 Poslední pohled na zhodnocení poèasí. 
+000527 Vleèná už èeká. Stisknìte ESC pro zobrazení herního menu a vyberte "Pøipraven ke vzletu".

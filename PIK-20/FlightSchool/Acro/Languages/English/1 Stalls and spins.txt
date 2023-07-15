@@ -1,0 +1,14 @@
+000006 Hello. Many times it was said, not to allow glider lose airspeed. But what happens when it does?
+000085 Let's find out.
+000125 Glider's shaking is first and last warning that wings are stopping working well.
+000192 If stick is still pulled back, glider will stall. To prevent that, simply push shtick forward.
+000268 Rotation that glider fell in is called spin. To do it intentionally, get glider near stall speed, and push hard rudder in desired direction.
+000313 When glider enters spin, best way to leave it is to push opposite rudder to spin direction and stick slightly forward. When rotation stops, keep rudder neutral and pull glider from a dive to level flight.
+000445 We are in spin.
+000484 Go from dive to level flight fast enough so glider not overspeed, and gentle enough so it not stalls again.
+000653 Lets's do another one.
+000816 It takes about half of one spin to stop rotation. It depends on glider, ballast and center of gravity position.
+000932 Sharp movements of stick can lead to stall and spin even when speed is higger than minimum. It is called dynamic stall.
+001127 Now let's rearange typical mistakes in turn. First is not coordinated turn with leg outside.
+001374 Most unwanted stalls are happening though with leg too hard on inside of turn.
+001588 Spin and stall recovery requires altitude. Keep this in mind when thermalling low.

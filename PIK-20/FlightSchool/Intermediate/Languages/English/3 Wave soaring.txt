@@ -1,0 +1,21 @@
+000026 Hello, today thermals are low and we are aiming high.
+000120 For now, we are using typical ridge lift. There is strong wind from north and this slope is working nice.
+000243 That high clouds are altocumulus lenticularis. When they appear, it means that there is wave - vertical movements of air on lee side of mountains.
+000419 On lee side of ridge, air is going down. When atmosphere is stable and wind speed is high also in upper levels, air goes up again.
+000568 Often wave lift goes up many times higher than initial size of ridges that are causing it. It is nothing unusual to get 5000 meters or more using this kind of lift.
+000690 Because wave movements of air are happening above inversion layer, to get lift we need to be higher. It is easier when inversion is low with none thermal activity.
+000821 One way to get on wave is to get as high as possible using other source of lift - for example ridge. Then just fly downwind.
+001177 Wave lift is usually under lenticularis cloud or on its upwind side. On downwind there is sink.
+001238 Ok, attack on wave starts. At first there is heavy sink from lee side of mountain.
+001444 Take it into consideration when flying against the wind. Sink and low ground speed can result in unexpected problem and even outlanding.
+001655 Just like cumulus clouds, sometimes there is wave, but upper atmosphere is dry and there are no clouds. 
+001812 This lift is not from ridge...
+002058 Using '4' menu on PDA, it is easy to find area with best lift. With orographic lifts, like ridge or wave - they are not moving with the wind, but stay stacionary.
+002168 Glider though, suffers from wind drift. Manouvers on wave should be done against the wind, to counter that deflection.
+002594 With long mountains and ridges, waves are making streets allowing to fly fast along them.
+003259 Higher we are, wave is easier to find and follow. Low in mountains, ridges, thermals, upslope winds are making situation complex.
+003475 We are going to get to that mountains on wave that is shown by clouds above.
+004555 That sink means that we are either too far upwind or opposite. To get back on lift line it is good idea to make some zig-zags upwind and downwind.
+005127 And again, wave lift.
+005680 When wind is strong, wave gives best lifts among different sources. Regular wave allows to make very fast, distant and high flights.
+007014 We have over 2000 meters. Try it yourself - over 5000 meters is easily possible in this conditions.

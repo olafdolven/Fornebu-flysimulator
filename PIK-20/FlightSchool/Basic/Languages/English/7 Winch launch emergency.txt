@@ -1,0 +1,11 @@
+000029 For now, everything is standard: controls check, trimmer, brakes...
+000175 Wind is quite strong, it will make our troubles bigger.
+000231 There is cable break simulation planned at about 100 meters.
+000303 Start as standard.
+000424 Break! Pull nose down, keep calm and keep airspeed!
+000473 Speed loss is immediate if You don't react fast enough.
+000522 Now, lets split turning back into light right turn, to make place for bigger left one.
+000660 First turn should be with the wind, and second against. This gives more time and mistake margin. 
+000838 With tailwind, and higher groundspeed there is need to use full brakes on final. Glider will also roll longer after.
+001096 Controls responsivness is also worse with tailwind.
+001328 At last moments ailerons and rudder don't work at all. However we stopped where we started.

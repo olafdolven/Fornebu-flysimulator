@@ -1,0 +1,9 @@
+1. Start Condor          -   NUM1
+2. Aerotow 1500m Easy    -   NUM2
+3. Close Game            -   NUM3
+4. Pause   P             -   NUM4
+5. Airborne 1500m Easy   -   NUM5
+6. Start Downwind Easy   -   NUM6
+7. Costum Start          -   NUM7
+
+

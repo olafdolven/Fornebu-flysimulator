@@ -1,0 +1,11 @@
+000016 Hello, now proper controlling of the glider will be taught
+000074 Yaw string and ball are good indicators of how well coordinated manouver is. String should be straight and ball in the middle.
+000170 To enter turn, pull stick on desired side, and push corresponding rudder pedal.
+000242 After that, pull stick backward a little to sustain a turnrate.
+000345 To leave a turn, pull stick and rudder in direction opposite to the turn.
+000408 When wings are leveled, retract controls to neutral position.
+000491 Let's see a steeper turn.
+000724 Now, pushing rudder will move nose up and down to the ground, and pulling stick backward and forward will affect turnrate.
+000916 Remember about increasing minimum speed when turning.
+000995 Duo Discus is able to fly at 75km/h straight, but entering a turn with that speed leads to control loss.
+001292 It can be extremally dangerous at low altitude.

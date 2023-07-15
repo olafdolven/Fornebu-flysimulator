@@ -1,0 +1,14 @@
+000027 Proveïte poctivì pøedletové úkony. Øízení, vítr, výškomìr, poèasí. 
+000267 Vleèná už èeká. Stisknìte ESC a vyberte "Pøipraven ke vzletu". 
+000522 Pøi nízkých rychlostech kormidla moc nereagují. Snažte se udržet smìr a køídla v rovinì. 
+000616 Okolo 80 km/h (45 kts) mírným pøitažením zvednìte kluzák ze zemì. 
+000671 Snažte se letìt za vleènou ve výšce 1-2 m (3-6 stop). 
+000767 Vleèná by mìla být na vašem horizontu nebo mírnì nad ním. 
+000874 V zatáèce se snažte udržet stejný náklon jako vleèná. Snažte se letìt stejnou dráhou. 
+000912 Korigujte smìr malými, ale ráznými zásahy do øízení a buïte stále soustøedìní. 
+001077 Letìt pod vleènou není nebezpeèné, mùžeme ale èekat turbulenci zpùsobenou vrtulovým vírem. 
+001306 Je také možné létat okolo tohoto víru. Øíká se tomu "boxing the wake". 
+001539 Vleèná vás obvykle odtáhne ke startovnímu bodu a zaène hledat stoupáky okolo nìj. 
+001617 Dosáhli jsme startovního bodu. 
+001826 Vleèná teï zamává køídly. To je znamení, že jsme dosáhli požadované výšky a máme se vypnout. 
+001906 Zasunout podvozek a mùžeme hledat stoupáky.

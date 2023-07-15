@@ -1,0 +1,7 @@
+000005 Opìt zaèneme 45 stupòovým klesáním. Cílem je získat rychlost 200 km/h (125 uzlù). Podle komet si kontrolujte správný úhel.
+000077 Nyní pøitáhnìte a stoupejte kolmo a pøitom sledujte køidlo v jehož smìru budeme zatáèet.
+000108 Zatoète doleva vyšlápnutím levého pedálu.
+000159 Bìhem 90 stupòového klesání sledujte nos letadla. Držte ho pøímo.
+000192 Pøitáhnìte, abyste letadlo srovnali.
+000233 Hotovo. Teï si to vyzkoušejte sami.
+001832 To je ono! Teï si to vyzkoušejte sami.

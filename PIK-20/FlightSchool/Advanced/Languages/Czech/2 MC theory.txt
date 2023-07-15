@@ -1,0 +1,13 @@
+000057 Podle MC teorie musíme nejdøíve odhadnout sílu stoupání v dalším stoupáku.
+000088 Ta by mìla být kolem 3 m/s, takže nastavíme MC na 3 pomocí standardnì nastavených kláves HOME a END.
+000165 Hodnota MC je zobrazena ve spodní èásti displeje variometru.
+000217 Vario má dva režimy: normální a "Speed command". Pokud pøepneme na SC, ukazuje nám, jak rychle máme letìt.
+000269 Do režimu SC a zpìt se pøepínáme pravou klávesou CTRL.
+000300 Pokud vario ukazuje záporné hodnoty a tón je hluboký, letíme moc pomalu a mìli bychom zrychlit.
+000350 Pokud vario ukazuje 0, letíme optimální rychlostí.
+000422 Pokud letíme pøíliš rychle, ukazuje vario kladné hodnoty a tón je vysoký. Musíme zpomalit.
+000517 Tón je hluboký - zase letíme pomalu.
+000628 Pokud letíme optimální rychlostí, je vario potichu a my víme, že letíme správnì rychle.
+000658 Mùžeme hledat lepší stoupáky.
+000860 Když nalétneme stoupák, pøepneme vario do normálního režimu.
+001112 Stoupání jsme odhadli dobøe.

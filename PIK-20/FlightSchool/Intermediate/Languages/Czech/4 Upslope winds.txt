@@ -1,0 +1,11 @@
+000020 Stoupání se vytváøí na násluneèných svazích kopcù.
+000269 Vzduch se ohøívá a je tak lehèí, takže zaène stoupat podél svahu až k vrcholu.
+000552 Slunce tuto èást høebene nezahøívá, takže tady žádné stoupání není.
+000694 Dobré stoupání mùžeme èekat za rohem, kde je slunce skoro kolmo ke svahu.
+000900 Násluneèná strana tu opravdu hodnì nosí.
+001048 Pokud je svah dlouhý a vhodnì umístìný, mùžeme prostì jen letìt podél nìj. Ale nám by se teï hodilo nabrat výšku.
+001111 Jako vždy, zatáèejte smìrem od svahu.
+001397 Oblast stoupajícího vzduchu bývá úzká, takže se zkusíme vrátit ke svahu jak to jen pùjde.
+002232 Teï vyzkoušíme jaké je to na druhé stranì høebene. Oèekáváme klesání.
+002417 Je to tak, chladný vzduch tu podél svahu klesá.
+002637 Tady žádné stoupání nenajdeme. Jedinou nadìjí jsou násluneèné svahy vpravo.

@@ -1,0 +1,11 @@
+000026 Hello, today lesson will teach about controls in glider. First one is pitch control. Moving stick forward pushes nose down, and pulling back - makes nose go up.
+000133 This type of movement has big impact on airspeed, so look how it changes during manouver.
+000266 With nose up too long, it is easy to lose airspeed, and stall the glider.
+000342 Next, controlling bank angle. Moving stick left and right rotates glider. It is not effective without rudder, especially in big ships, like this Duo Discus.
+000471 And the rudder, it makes mask go left or right, depending on which leg is pushed. Look again how instable glider is when using only this control.
+000605 Proper method of steering using aileron and rudder is explained in next lesson.
+000701 Now, the trimmer. It affects neutral position of elevator, so it has influence on nose position. Its purpose is to reduce load on stick, so flying is less exhausting.
+000832 The last, airbrakes. Pulling them out causes big drag to the glider.
+000953 Look how it affects sink rate, and what will happen when they retract.
+001025 Sink lowered and airspeed immediately started to rise.
+001188 That is enough for now.

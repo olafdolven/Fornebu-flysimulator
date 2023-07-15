@@ -1,0 +1,3 @@
+000009 Pøemet zaèneme klesáním pod úhlem 45 stupòù, abychom nabrali rychlost (okolo 200 km/h nebo 125 uzlù). Podle komet na koncích køidel si ovìøte správný úhel.
+000098 Srovnejte letadlo a pak pøitáhnìte, abyste zaèali pøemet. Dávejte pozor na pøetížení.
+000205 To byl váš první pøemet. Teï si ho vyzkoušejte sami.

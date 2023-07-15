@@ -1,0 +1,13 @@
+000020 Zaèneme levou zatáèkou. Mírnì vychylte køidélka a smìrovku vlevo. 
+000053 Když dosáhnete požadovaného náklonu, srovnejte køidélka i smìrovku. 
+000116 Všimnìte si, že musíme trochu pøitáhnout, abychom zabránili poklesu nosu. 
+000216 Když chcete zatáèení zastavit, použijte opaènou výchylku køidélek a smìrovky. 
+000251 Když jsou køídla v rovinì, srovnejte kormidla. 
+000293 A teï pravá zatáèka. 
+000477 Všimnìte si, že když ukonèujeme zatáèku, musíme mírnì potlaèit, abychom zabránili zvednutí nosu nad horizont. 
+000508 Ostré zatáèky jsou obtížnìjší. 
+000604 Na "ostøice" potøebujeme vìtší rychlost, jinak bychom nezabránili poklesu nosu.
+000785 Úhel náklonu musíme opatrnì udržovat køidélky. 
+000814 Pokud nos poklesne, nesmíte jen potlaèit, ale co je dùležitìjší, zmírnit úhel náklonu. 
+000918 Teï si vyzkoušíme nìkolik zatáèek do S. Snažte se mít bavlnku poøád uprostøed. 
+001081 Tohle se musí hodnì cvièit, takže to hned nevzdávajte.

@@ -1,0 +1,26 @@
+000032 Clicking '1' turn topographic map off, and makes PDA screen more clear.
+000062 To turn map on, press '1' again.
+000109 With navigation helpers activated in NOTAM menu, pressing 'J' shows poles - waypoint middles.
+000432 Pressing PgUp or PgDn when in '1' menu, zooms map in and out.
+000585 Navigation menu that is under '2' key shows crucial information about TP and glider's position. BRG is course to next waypoint.
+000682 HDG is course of glider, so if HDG and BRG are similar, then glider is  flying directly on waypoint. Lower distance to waypoint is shown. VMG tells how fast are we closing to waypoint.
+000843 If difference between HDG and BRG is bigger then 90 degrees, we are going away from turnpoint. Distance is increasing and VMG is lower than 0.
+000960 TTG - time to go, and ETA - estimated time of arrival, are not calculated now.
+001290 Under '3', there is different info about us and turnpoint. DIST, TTG and ETA are the same, but DH is telling us if we are higher or lower than turnpoint, and DDH is estimated altitude that we are going to reach turnpoint.
+001415 DDH depends on actual altitude, glider performance, wind, altitude of turnpoint and MC setting. In general MC setting is how fast glider is going to fly and more details will be given on next lesson.
+001554 To make task as fast as possible, it is good to prepare turn just before waypoint.
+001602 '4' screen shows glider trail and when pressed once again, wind strength and direction. It is helpful with '1' map to estimate on wich side slopes are going to give ridge lift.
+001810 Let's try to reach waypoint without virtual helper.
+001892 With this, standard FAI waypoints, there is no difference, from what side they are entered. It is helpful in case of mistake, or bad weather conditions on straight route to waypoint.
+001956 We missed, it is no problem to correct that.
+002038 Waypoint reached, it turned green. Next one is going to be 'window' type.
+002182 On 3 menu, red ball shows us relative position of waypoint. In case of window one, it should be in the middle of crosshair.
+002280 Also window turnpoint can not be entered from both sides. On '1' menu, icon shows preffered direction of window enterance.
+002412 Airbrakes will let us go on correct altitude.
+002469 That white rectangle is the goal.
+002667 Of course with navigation helpers disabled, there will be no white rectangles or poles. PDA is main navigation device then.
+002784 Icon on map shows, that we need to enter window from other side.
+002901 Window turned! Now, finish. 
+002992 Finish circle is full 360degrees, with 1km radious. It means we need to be closer then 1000meters from final pole to finish task.
+003170 On '3' menu, DDH greater than '0' means we are able to reach finish.
+003928 Task finished!

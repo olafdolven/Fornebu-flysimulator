@@ -1,0 +1,21 @@
+000031 Next method of starting is using help of an airplane.
+000081 Again, there is headwind and crosswind.
+000175 Airbrakes retracted and locked, controls responsive, so tugplane can be called.
+000274 Once again, it is good idea to trim the glider forward.
+000454 During roll, keep wings leveled with ailerons and maintain course with rudder. It is the opposite of coordinated turn, because now hand and legs are working separetly.
+000542 When airspeed is enough, gently pull glider in air and keep it low over ground until airplane will start.
+000612 Now, just follow tail of airplane.
+000812 When below the plane, airflow from proppeler will cause turbulence to the sailplane.
+000893 During turn, keep bank angle the same as towplane and use rudded to follow its course.
+001167 Getting above towplane is dangerous, because it is out of the sight and there is risk of hitting it when diving.
+001213 Quick use of airbrakes is best way to handle this situation.
+001328 On the opposite, getting low, however not advised, is not so risky to glider or towplane.
+001476 Lets practice other unusual positions.
+001599 Getting inside or outside of turning radious of towplane is also not advised. Being inside is bigger problem, because of lower airspeed of glider. 
+001780 When outside, our airspeed rises, becaus of bigger radious of our turn. Rope can break in this situation.
+001905 On the inside we risk losing control of our glider.
+002227 Towplane sign to release is waving wings, but we can do it earlier.
+002406 This is signal to release.
+002437 After this, gently pull stick back, so collision with plane or rope is avoided.
+002491 Make sure that airplane is flying away.
+002567 Now rectract gear, trim glider as you wish and enjoy flying.

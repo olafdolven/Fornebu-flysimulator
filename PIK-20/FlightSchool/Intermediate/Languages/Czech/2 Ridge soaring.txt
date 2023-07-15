@@ -1,0 +1,14 @@
+000055 Pøed námi je témìø 10 km (5 mil) dlouhý svah. 
+000089 Vítr fouká zprava, takže je vzduch odrážen nad svah. 
+000139 Mùžeme si být jistí, že podél svahu bude stoupání. 
+000411 Zkusíme sledovat kontury høebene, protože stoupání bývá nejsilnìjší u jeho vrcholu. 
+001318 Vždy zatáèejte smìrem od svahu. 
+001867 Pokud je svah dlouhý, bývá lepší letìt o nìco níže, ale rychleji. Zde je stoupání silné, takže mùžeme udržovat výšku pøi vìtší rychlosti. 
+001940 Takto lze zaletìt dlouhé vzdálenosti velkou rychlostí. 
+002330 Teï vyzkoušíme závìtrnou stranu høebene. 
+002472 Oèekáváme klesání a turbulence. 
+002618 Tìmto oblastem se vždy vyhýbejte. 
+003232 Koneènì jsme se dostali k èelní stranì. 
+003643 Když létáme blízko zemì, musíme brát v úvahu zmìny vìtru. 
+003769 Pro pøípad, že nalétneme do klesání nebo turbulence, musíme mít zálohu rychlosti. 
+005356 Dostali jsme se na vrchol.

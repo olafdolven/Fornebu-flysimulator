@@ -1,0 +1,15 @@
+000011 Hello, now there will be demonstration of winch launch.
+000048 There is a little headwind and crosswind.
+000114 Standard check of control respones is good thing to do.
+000219 Trimmer should be positioned little on "heavy on nose" position.
+000318 Now glider will start. 
+000376 When speed is enough gently pull stick backwards.
+000403 Speed is rising fast, so lets pull a little more.
+000473 However, do not let airspeed drop, because nose is pointing at the sky!
+000540 Around 110km/h is good.
+000598 At the top, speed will decrease, so push the stick forward and get ready to release.
+000674 Variometer shows that we are not gaining altitude so fast now.
+000704 Press R to release from winch cable.
+000757 And retract the gear.
+000812 Winch launch is very dynamic way of starting. We gain about 500 meters of altitude very fast, but not much more should be expected.
+000978 Next lesson is aerotow start.

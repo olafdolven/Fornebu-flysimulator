@@ -1,0 +1,22 @@
+000011 Hello. MC theory can be used not only between clouds, but also to optimise final glide.
+000069 We are 55km from destination. PDA shows that on MC 0 setting, glider is about 350 meters too low to reach finish.
+000132 Lets gain altitude in thermal.
+000331 In order to optimise final glider, set MC setting at climb rate in last thermal.
+000442 In this case it is at least 2m/s.
+000647 Setting MC 2.0 leads to change of arrival altitude to over -700 meters.
+000735 However with climb rate 2m/s, that 400 additional meters will take 3 minutes and 20 seconds to get. And flying at least 50km/h faster on 55km distance will save a lot more time.
+001036 Lets focus now on thermalling.
+001366 500 meters still needed...
+001493 But on MC 0, we could now leave thermal and try to get to finish line.
+001871 It is good to know about predicted arrival altitudes at different MC settings.
+001938 When flying at certain MC speed, and sink leaves you without enough altitude, reducing speed to MC0 can save final glide without need to find lift again.
+002250 Whole process of looking for lift, entering it, finding core of thermal is taking time. It is not worth for 100 meters of altitude. 
+002527 To show it - we are leaving thermal too early. We can get to finish flying little slower, with MC 1.1 setting.
+002714 But margin of 20 meters over 55 km glide can be risky.
+002793 However, flying at MC0 gives over 360 meters safety margin.
+003222 There is higher terrain in front of us. Additional altitude can be nessesery.
+003357 Flying not directly to destination is leading to loss of range.
+003658 Some thermal would be nice..
+003884 There it is...
+004162 It is going to be over 2m/s, so once again set MC 2.0 and climb high enough to get DDH letting us to get to the finish point.
+005837 DDH is over 0, there are many nice clouds ahead in case of trouble. There is big chance that this final glide will be fast.

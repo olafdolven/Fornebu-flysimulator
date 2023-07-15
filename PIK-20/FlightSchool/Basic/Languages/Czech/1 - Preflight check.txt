@@ -1,0 +1,13 @@
+000023 Hello, student pilot!
+000067 You are learning to fly in brand new Duo Discus XL glider.
+000148 Very important is to check all Your controls before flight.
+000189 That preflight check should include: stick and rudder check
+000263 Airbrakes check
+000350 Release hook check.
+000419 Getting familliar with gauges, and checking if altidute is set correctly
+000500 You can adjust it by '+' and '-' keys. Depending on preset, You can choose to see QFE or QNH setting, but remember to check if it is ok before flight.
+000575 Check trimmer, and set it to desired position, depending on glider You fly, CG bias and water load.
+000640 Wind sock will give nice hints about wind speed and direction.
+000680 But if there is not any nearby, Your yaw string can do the same.
+000774 Now we are empty, but it's good time to check if water drop control is assigned.
+000919 Is everything ok? Then we can fly.

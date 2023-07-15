@@ -1,0 +1,21 @@
+000021 Hello, today we will get familliar with MC Theory and speed commander.
+000076 PDA shows that we are around 8km from next turnpoint, 900 meters above it now, and predicts 700meters above when glider gets there.
+000134 We are going to use PDA and acoustic vario to optimise our flight speed.
+000188 Setting MC on PDA affects predicted altitude above turnpoint, and time to get there. 
+000283 By clicking right ctrl, we can change electronic vario mode to speed commander. In this mode, needle position depends on MC setting, actual sink or lift and current speed.
+000366 If needle is above zero, we need to slow down.
+000467 For MC 0.0, selected glide speed is around 105km/h. While flying faster or slower, sound is played and needle goes up or down. Silence is our goal.
+000604 Entering sink or lift, affects speed to fly setting. 85km/h is slightly lower than best speed for still air conditions. In sink, we are way too slow.
+000653 The same is for higher MC setting. Let's find out, what speed is calculated best for MC 1.5.
+000823 It is over 150km/h. Duo Discus XL is high performance glider, so current glide ratio is not much lower than best one that we get when flying with MC 0.
+000887 We entered lift, so right ctrl again, and e-vario is back in variometer mode.
+001015 It was somewere here...
+001184 A few circles here...
+001411 In theory, MC setting should be set on lift speed in next thermal. Of course we don't know what is it gonna be before we enter it. It takes experience and good estimation skill to guess what is next cloud going to give us.
+001763 Thermal was strong, so maybe next will be also. Let's set MC on 2.0
+001947 DDH altitude is calculated from MC setting - it should not change if air is still and we are flying with correct speed.
+002040 Following speed commander in sink and lift on cruise let's us optimise behavior and get DDH higher.
+002234 However, priority is gentle steering. Blind trying to keep red needle on 0 will lead to too much movements. It decreases glider performance.
+002637 We are reaching turnpoint.
+002760 DH and DDH values are getting close. Always try to get both of them above 0, when closing to turnpoint. If it is not, then 'outlanding' lesson should be remembered.
+003736 Turnpoint reached, so is the end of the lesson.

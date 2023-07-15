@@ -1,0 +1,11 @@
+000020 Zaèínáme 300 - 500 m (yardù) od dráhy cca 200 m (600 stop) vysoko. 
+000050 Pokud už jsme to neudìlali už døíve, tak nyní musíme vysunout podvozek. 
+000134 Poletíme po vìtru paralelnì s dráhou a budeme se snažit udržovat rychlost 90 km/h (45 kts). 
+000250 V turbulentních nebo nepøedvídatelných podmínkách pøidáme 10 až 20 km/h (5 - 10 kts). 
+000372 Naším cílem je otoèit ètvrtou zatáèku tak daleko, abychom mohli letìt na finále s brzdami otevøenými napùl a pøistáli na kraji dráhy. 
+000607 Zatáèka na finále. 
+000722 V ideálním pøípadì bychom mìli na finále používat celou dobu brzdy v polovièní pozici. 
+000753 Jsme trochu vysoko, takže vysuneme brzdy naplno, abychom se dostali do ideální sestupové linie. 
+000959 Za vìtrných podmínek buïte opatrní, protože u zemì obvykle dochází k nárazùm vìtru. 
+001021 Jemnì pøitahujte knipl, abyste udrželi kluzák 0.5 až 1 m (2 stopy) nad dráhou. 
+001103 Když poklesne rychlost, kluzák sám pøistane. Dávejte si pozor, aby byla køídla v rovinì.

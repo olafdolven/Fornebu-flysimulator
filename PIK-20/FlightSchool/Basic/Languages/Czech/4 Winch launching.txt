@@ -1,0 +1,8 @@
+000037 Nejdøíve pøedletové úkony. Øízení, vítr, poèasí, výškomìr. 
+000245 Srovnejte øízení, stisknìte ESC a vyberte "Pøipraven ke vzletu". 
+000296 Jemným pøitáhnutím uveïte kluzák do stoupání s rychlostí 110 km/h (60 kts) 
+000377 Pohledy do stran kontrolujte náklon kluzáku. 
+000512 Úhel stoupání by mìl zaèít pomalu klesat. 
+000569 Jen udržujte rychlost. 
+000652 Když stoupání klesne pod 1 m/s (1 kts), vypnìte se.
+000687 Zasuòte podvozek a vydejte se hledat stoupáky.

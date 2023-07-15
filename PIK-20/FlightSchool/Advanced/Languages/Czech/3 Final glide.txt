@@ -1,0 +1,20 @@
+000106 Právì jsme otoèili poslední otoèný bod a na cestu domù už nám chybí jen poslední stoupák.
+000166 Doufejme, že nám tento mrak poskytne stoupání, které potøebujeme.
+000388 Èervený bod na obrazovce 3 našeho PDA nám øíká, že bychom asi doletìli domù s MC nastaveným na 0, tedy rychlostí nejlepšího klouzání.
+000494 Pokud tu ale dobereme výšku a poletíme potom rychleji, budeme doma døív.
+000716 Skvìlé, našli jsme stoupák.
+000838 Ale jak moc nastoupat, abychom byli doma co nejrychleji?
+000909 Podle teorie MC bychom mìli nastavit MC na hodnotu aktuálního stoupání. Dokluzový poèítaè (obrazovka 3 PDA) zobrazuje jak vysoko musíme nastoupat.
+001007 S MC na 2.5 nám chybí 200 metrù na cestu domù. Takže nastoupáme 200 metrù.
+001425 Stoupání se zlepšuje, tak nastavíme MC na 3.
+001542 Èervený bod ukazuje, že jsme poøád moc nízko.
+001661 Opìt trochu zvýšíme MC.
+001795 Teoreticky bychom mohli opustit stoupák už teï, ale pro jistotu udìláme ještì jednu otoèku.
+002079 Vyrážíme.
+002204 Pøepneme vario na SC, správnou hodnotu MC už máme nastavenou.
+002306 Jsme 23 km od domova a máme o trochu víc výšky než je tøeba.
+002366 Doma budeme za 8 minut.
+002457 Trochu zrychlíme, aby lekce netrvala tak dlouho.
+002669 Všechno jde podle plánu.
+002761 Teï už mùžeme pøepnout vario z SC do normálního režimu.
+002961 Všude dobøe, doma nejlíp.

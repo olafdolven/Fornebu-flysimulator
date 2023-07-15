@@ -1,0 +1,6 @@
+000020 Výškovku ovládáte potlaèením nebo pøitažením kniplu. 
+000090 Výškovkou øídíte KLOPENÍ kluzáku. 
+000127 Køidélka ovládáte vychýlením kniplu vlevo nebo vpravo. 
+000192 Køidélky øídíte KLONÌNÍ kluzáku. 
+000295 Vyšlápnutím nožních pedálù pohybujete se smìrovkou. 
+000404 Smìrovkou øídíte ZATÁÈENÍ kluzáku.

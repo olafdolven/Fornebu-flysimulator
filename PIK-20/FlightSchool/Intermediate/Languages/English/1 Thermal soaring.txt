@@ -1,0 +1,25 @@
+000524 Main method to climb with a glider is to use thermals.
+000561 Cumulus clouds, like one ahead us, are best signs of areas of rising air that we are looking for.
+000612 That helpers are telling us a lot about thermals.If they are enabled in menu, pressing 'H' key activates them.
+000662 Red bubbles column is core of thermal and yellow ones are surrounding mases of rising air.
+000727 Blue bubbles are sign of sinking air. Gliders should avoid them.
+000856 Before entering thermal it is good idea to check it for gliders. It is not only for collision avoidance. Other gliders are also looking for lift, so joining them might be good idea.
+001002 Our variometers are going up!
+001132 Best way to use thermals is to circle with about 45 degrees bank angle.
+001309 Staying in thermal is of course harder without helpers.
+001398 Avoid rapid changes of speed, bank angle or turn rate. It can lead to losing lift.
+001572 Good way to find best lift zone is to slightly straighten turn when lift is raising and making it steeper when it is going down.
+001654 In general, best situation is stable lift with no need to change turning parameters.
+001987 Let's find another thermal. That cloud looks good.
+002049 Young clouds with sharp edges are more reliable source of lift than old ones that are decaying.
+002115 PDA can help. Pressing '4' enables lift info with coloured trail.
+002195 Once again, glider start to go up.
+002305 Red trail on PDA shows us where glider was going up. It helps with finding best lift zone.
+002531 Glider is entering cloud, it is time to try something else.
+002679 Helpes show that old cloud has lift only near cloudbase, but fresh thermal is rising nearby.
+002709 Airbrakes are extended so we can try that low, fresh lift.
+003108 We found lift 650 meters above ground level. Remember that without gelpers, going low is risky. Near the ground, lift are generally weaker.
+003398 Near mountain slopes there are thermals that are following rising terrain. They are shown by green bubbles.
+003785 Wind is strong, about 30km/h. It pushes glider into slope so stay sharp when thermalling in mountains.
+003903 That lifts are usually strong but narrow.
+004173 Being close to the slope, on upwind side leads to next lesson...

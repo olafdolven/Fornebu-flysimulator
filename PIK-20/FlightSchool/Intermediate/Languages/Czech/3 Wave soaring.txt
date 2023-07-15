@@ -1,0 +1,8 @@
+000075 Vzdálenost oblasti stoupání od høebene závisí na rychlosti vìtru a stabilitì ovduší.
+000557 Naše rychlost vùèi zemi je velmi malá, kvùli silnému protivìtru. 
+000716 Pokud najdeme dobré stoupání, zkusíme se v nìm udržet s pomocí obrazovky 4 našeho PDA. 
+000900 Stoupání je stále silnìjší. 
+001918 Linie dobrého stoupání je rovnobìžná s høebenem. 
+002501 Takto mùžeme uletìt hodnì daleko. 
+002662 Podívejme se, jak to vypadá blíž k høebeni. 
+003310 Pøesnì jak jsme èekali, jen klesáky.

@@ -1,0 +1,18 @@
+000024 Hello, change of glider today!
+000112 This is high performance Antares 18S. Equipped with flaps and filled with water ballast.
+000186 Let's see how flaps setting influences performance on cruise.
+000304 Setting them up increases glide ratio at high speed, at cost of lower lift coefficient.
+000440 Extending flaps down at high speed lowers performance.
+000576 During stable flight there is one optimal flap setting for one speed and wing loading. Flaps can be moved up with 'F' key and down with 'V' key.
+000700 Flaps extedned down are mainly used for climbing in thermals.
+000859 That cumulus looked nice. We expect thermal at the end of cloud.
+001022 There it is...
+001088 Usually setting flaps to the lowest position is pointless for straight flight, even slow one. But extra lift is suitable in thermalling.
+001170 Flaps allow us to climb at only 90km/h - this allows to fit in thermal and use it core.
+001288 It would not be possible with flaps up...
+001403 Glider immediately gets faster and increases radious of circle.
+001500 Water ballast works differently. High wing loading moves glider polar to higher speeds. It means that glide ratio is the same but at higher velocity.
+001598 You can fill ballast before flight and during soaring only drop it.
+001694 Pressing 'W' key opens water valves and clicking it again closes them. It depends on glider but usually dumping full ballast takes about 4 minutes.
+001798 You can't see water trail from inside. It evaporates too quick. Using clock is good to estimate when to close opened valves.
+002207 Better performance on cruise comes at cost of higher speed in thermals - it makes climbing harder. Therefore it's cruicial to estimate correctly how heavy should be glider for current thermal conditions.
